@@ -1,0 +1,155 @@
+pipeline {
+  agent any
+
+  environment {
+    APP_NAME = 'flappy-fun'
+    IMAGE_REPO = 'docker.io/maazjazelle/flappy-fun'
+    GITOPS_REPO_URL = 'https://github.com/maaz-maniyar/flappy-fun-gitops.git'
+    GITOPS_BRANCH = 'main'
+    GITOPS_MANIFEST_PATH = 'apps/flappy-fun/overlays/dev/kustomization.yaml'
+    SONARQUBE_ENV = 'sonarqube'
+    DOCKERHUB_CREDENTIALS_ID = 'dockerhub-creds'
+    GITOPS_CREDENTIALS_ID = 'gitops-creds'
+    ENABLE_SONAR = 'false'
+  }
+
+  options {
+    timestamps()
+    disableConcurrentBuilds()
+  }
+
+  stages {
+    stage('Checkout') {
+      steps {
+        checkout scm
+      }
+    }
+
+    stage('Prepare Metadata') {
+      steps {
+        script {
+          env.IMAGE_TAG = "${env.BUILD_NUMBER}-${env.GIT_COMMIT.take(7)}"
+        }
+      }
+    }
+
+    stage('Install') {
+      steps {
+        bat 'npm.cmd ci'
+      }
+    }
+
+    stage('Lint') {
+      steps {
+        bat 'npm.cmd run lint'
+      }
+    }
+
+    stage('Test') {
+      steps {
+        bat 'npm.cmd test'
+      }
+    }
+
+    stage('SonarQube Scan') {
+      when {
+        expression { env.ENABLE_SONAR == 'true' }
+      }
+      steps {
+        withSonarQubeEnv("${SONARQUBE_ENV}") {
+          bat 'npm.cmd install --no-save sonar-scanner'
+          bat 'npx.cmd sonar-scanner -Dsonar.projectVersion=%BUILD_NUMBER%'
+        }
+      }
+    }
+
+    stage('Quality Gate') {
+      when {
+        expression { env.ENABLE_SONAR == 'true' }
+      }
+      steps {
+        timeout(time: 10, unit: 'MINUTES') {
+          waitForQualityGate abortPipeline: true
+        }
+      }
+    }
+
+    stage('Build App') {
+      steps {
+        bat 'npm.cmd run build'
+      }
+    }
+
+    stage('Build Image') {
+      steps {
+        bat 'docker build -t %IMAGE_REPO%:%IMAGE_TAG% -t %IMAGE_REPO%:latest .'
+      }
+    }
+
+    stage('Scan Image') {
+      steps {
+        bat 'trivy image --exit-code 1 --severity HIGH,CRITICAL %IMAGE_REPO%:%IMAGE_TAG%'
+      }
+    }
+
+    stage('Push Image') {
+      steps {
+        withCredentials([usernamePassword(credentialsId: "${DOCKERHUB_CREDENTIALS_ID}", usernameVariable: 'DOCKERHUB_USERNAME', passwordVariable: 'DOCKERHUB_PASSWORD')]) {
+          powershell '''
+            $env:DOCKERHUB_PASSWORD | docker login -u $env:DOCKERHUB_USERNAME --password-stdin
+            docker push "$env:IMAGE_REPO`:$env:IMAGE_TAG"
+            docker push "$env:IMAGE_REPO`:latest"
+            docker logout
+          '''
+        }
+      }
+    }
+
+    stage('Update GitOps Repo') {
+      steps {
+        withCredentials([usernamePassword(credentialsId: "${GITOPS_CREDENTIALS_ID}", usernameVariable: 'GITOPS_USERNAME', passwordVariable: 'GITOPS_TOKEN')]) {
+          powershell '''
+            $gitopsDir = Join-Path $PWD "gitops"
+            if (Test-Path $gitopsDir) {
+              Remove-Item -LiteralPath $gitopsDir -Recurse -Force
+            }
+
+            $repoUrl = $env:GITOPS_REPO_URL -replace '^https://', ''
+            git clone --branch $env:GITOPS_BRANCH "https://$env:GITOPS_USERNAME:$env:GITOPS_TOKEN@$repoUrl" gitops
+
+            Set-Location $gitopsDir
+
+            $manifestPath = Join-Path $gitopsDir $env:GITOPS_MANIFEST_PATH
+            $content = Get-Content -LiteralPath $manifestPath
+            $updated = $content -replace '^\s*newTag:\s*.*$', "    newTag: $env:IMAGE_TAG"
+            Set-Content -LiteralPath $manifestPath -Value $updated
+
+            git config user.name "jenkins"
+            git config user.email "jenkins@local"
+            git add $env:GITOPS_MANIFEST_PATH
+
+            git diff --cached --quiet
+            if ($LASTEXITCODE -ne 0) {
+              git commit -m "Deploy $env:APP_NAME image $env:IMAGE_TAG"
+              git push origin $env:GITOPS_BRANCH
+            } else {
+              Write-Host "No manifest changes to commit"
+            }
+          '''
+        }
+      }
+    }
+  }
+
+  post {
+    always {
+      powershell '''
+        docker image rm "$env:IMAGE_REPO`:$env:IMAGE_TAG" "$env:IMAGE_REPO`:latest"
+        if ($LASTEXITCODE -ne 0) {
+          Write-Host "Docker image cleanup skipped"
+        }
+      '''
+      cleanWs()
+    }
+  }
+}

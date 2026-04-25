@@ -1,0 +1,20 @@
+apiVersion: argoproj.io/v1alpha1
+kind: Application
+metadata:
+  name: flappy-fun-dev
+  namespace: argocd
+spec:
+  project: default
+  source:
+    repoURL: https://github.com/maaz-maniyar/flappy-fun-gitops.git
+    targetRevision: main
+    path: apps/flappy-fun/overlays/dev
+  destination:
+    server: https://kubernetes.default.svc
+    namespace: flappy-fun-dev
+  syncPolicy:
+    automated:
+      prune: true
+      selfHeal: true
+    syncOptions:
+      - CreateNamespace=true

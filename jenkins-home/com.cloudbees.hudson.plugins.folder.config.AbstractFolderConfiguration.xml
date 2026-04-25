@@ -1,0 +1,4 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<com.cloudbees.hudson.plugins.folder.config.AbstractFolderConfiguration plugin="cloudbees-folder@6.1100.ve9eed61d16c4">
+  <healthMetrics class="empty-list"/>
+</com.cloudbees.hudson.plugins.folder.config.AbstractFolderConfiguration>

@@ -1,0 +1,4 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<org.jenkinsci.plugins.workflow.libs.GlobalLibraries plugin="pipeline-groovy-lib@797.v90ea_a_9b_e45a_0">
+  <libraries class="empty-list"/>
+</org.jenkinsci.plugins.workflow.libs.GlobalLibraries>
