@@ -121,7 +121,13 @@ pipeline {
 
             $manifestPath = Join-Path $gitopsDir $env:GITOPS_MANIFEST_PATH
             $content = Get-Content -LiteralPath $manifestPath
-            $updated = $content -replace '^\s*newTag:\s*.*$', "    newTag: $env:IMAGE_TAG"
+            $updated = $content | ForEach-Object {
+              if ($_ -like '*newTag:*') {
+                "    newTag: $env:IMAGE_TAG"
+              } else {
+                $_
+              }
+            }
             Set-Content -LiteralPath $manifestPath -Value $updated
 
             git config user.name "jenkins"
