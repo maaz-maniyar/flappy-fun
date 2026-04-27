@@ -1,0 +1,188 @@
+Started by user [8mha:////4OxLgxWB+9RAuG7cJxamR8ZWpmEvkECRJkjVxd3PcFNuAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0madmin
+Obtained flappy-fun-main/Jenkinsfile from git https://github.com/maaz-maniyar/flappy-fun.git
+[8mha:////4BkXM6sdi+a6FHapPyWmpvjX+ZUCQR1f4VZ6xmCO1ODzAAAAoh+LCAAAAAAAAP9tjTEOwjAQBM8BClpKHuFItIiK1krDC0x8GCfWnbEdkooX8TX+gCESFVvtrLSa5wtWKcKBo5UdUu8otU4GP9jS5Mixv3geZcdn2TIl9igbHBs2eJyx4YwwR1SwULBGaj0nRzbDRnX6rmuvydanHMu2V1A5c4MHCFXMWcf8hSnC9jqYxPTz/BXAFEIGsfuclm8zQVqFvQAAAA==[0m[Pipeline] Start of Pipeline
+[8mha:////4MM41miFSKV1QaWOEhLBglWVwoi2mna5sixiZ30ahxz6AAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycohUghExsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jduZBmjwAAAAA==[0m[Pipeline] node
+Running on [8mha:////4EjD1lJNPom7IZmj9qYJYp+0pzGp1CkkskqdwgFQrdJPAAAAoR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgZR/eT83ILSktQifY2k0sycEt3MPE19AHHxbH3KAAAA[0mJenkins in C:\Users\MAAZ\Downloads\flappy-fun-main\jenkins-home\workspace\flappy-fun
+[8mha:////4MG3oRoGKkOycVtn+KHQnm2CwANp7y5wbA9nyfs7pm7lAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gA0xsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jfoP95RwAAAAA==[0m[Pipeline] {
+[8mha:////4L3j/pWzf7H9/IKssScc7gZWsBVohuiMP8UB37TPfWFQAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gQkxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jc09154wAAAAA==[0m[Pipeline] stage
+[8mha:////4FeCuSXV3pzsKWiE5hi/Zs53dsjc9Ib8btRcopxJ8iqYAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0ggUxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jek7ggRwAAAAA==[0m[Pipeline] { (Declarative: Checkout SCM)
+[8mha:////4B1V3Wb8/iISrwBa1HzSeA17gMn3Cr7H1MuAnCDNBX4yAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbaWGsbAmNJ0AWEZb8zwLrbuWJvJp3kLiJlZNMMm+a93rDOic4UbLcG+wdZu14DKOti0+U+lugiXu6ck2YKRguzSSpM+cFJRUDS1gDKwEbgzpQdmgLbIVXD9UGhba9lFS/o4DGdQM8gYlqLiqVL8wJdvexy4Q/z18BzLEA29ce4gfg7KmOvAAAAA==[0m[Pipeline] checkout
+The recommended git tool is: git.exe
+using credential gitops-creds
+Cloning the remote Git repository
+Cloning repository https://github.com/maaz-maniyar/flappy-fun.git
+ > git.exe init C:\Users\MAAZ\Downloads\flappy-fun-main\jenkins-home\workspace\flappy-fun # timeout=10
+Fetching upstream changes from https://github.com/maaz-maniyar/flappy-fun.git
+ > git.exe --version # timeout=10
+ > git --version # 'git version 2.45.1.windows.1'
+using GIT_ASKPASS to set credentials 
+ > git.exe fetch --tags --force --progress -- https://github.com/maaz-maniyar/flappy-fun.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git.exe config remote.origin.url https://github.com/maaz-maniyar/flappy-fun.git # timeout=10
+ > git.exe config --add remote.origin.fetch +refs/heads/*:refs/remotes/origin/* # timeout=10
+Avoid second fetch
+ > git.exe rev-parse "refs/remotes/origin/main^{commit}" # timeout=10
+Checking out Revision 99048f533310f085f9622ae45fe27473b1a798d7 (refs/remotes/origin/main)
+ > git.exe config core.sparsecheckout # timeout=10
+ > git.exe checkout -f 99048f533310f085f9622ae45fe27473b1a798d7 # timeout=10
+Commit message: "Add JenkinsFile v2"
+First time build. Skipping changelog.
+[8mha:////4BZe8sap2T0i71I8qsbeiXsdFXiInU7NsgwWwT1UsTAKAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbGRNjZUtoPAGyiLDkfxZYdytP5NW8g8RNrJxkknnTvNcb1jnBiZLl3mDvMGvHYxhtXXyi1N8CTdzTlWvCTMFwaSZJnTkvKKkYWMIaWAnYGNSBskNbYCu8eqg2KLTtpaT6HQU0rhvgCUxUc1GpfGFOsLuPXSb8ef4KYI6xADvU7j9Dg2gqvAAAAA==[0m[Pipeline] }
+[8mha:////4J0NdagzTk9R4FS03EL5AT/L9YiA8FNJK9rBpXjIfTf6AAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQRbWRhjZUtoPAGyiLDkfxZYdytP5NW8g8RNrJxkknnTvNcb1jnBiZLl3mDvMGvHYxhtXXyi1N8CTdzTlWvCTMFwaSZJnTkvKKkYWMIaWAnYGNSBskNbYCu8eqg2KLTtpaT6HQU0rhvgCUxUc1GpfGFOsLuPXSb8ef4KYI6xADvU7j9J+wGOvAAAAA==[0m[Pipeline] // stage
+[8mha:////4EZrHYh8BRIXJG2GwdNVH2WLB2KvJPo/IiA9CWNBPajQAAAAph+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYQDEh2iorXc8AITG+PEugv2haTiRXyNPxCIRMVWOyut5vmCMic4UPKycdgGzHWQXez91ORAqb1EGmRDZ1kTZopOajdosu44oyZ2MEcUsFCwdFhHygE9w0o15m6qaNBXJ07TtldQBHuDBwg1mdkk/sKYYH3tbSb8ef4KYOwYxI6h2G4+x/INtuQqUcEAAAA=[0m[Pipeline] withEnv
+[8mha:////4ANkCgxUqQ76/jUz2yR9OlN3og5BTfEyg2IyEAfVbirCAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+DOrAycoiUzoiJNerCCUITQtLo/zZJSSdOxNW4Ay2VmPBg2Zas93pDGQOcKBjuNHYWY2t570czJ54pdDdPmTu68pYwkte80bkhpc9rbShpWFUw2AjYamw9RYsmwU44+ZCVl2iqSwrzdhTArBrgCYWYyUmG9C1TgP19VJHwx/kLgKlPwOrDYvXyLD8BobDcwgAAAA==[0m[Pipeline] {
+[8mha:////4P78dDZLUaJtUL6+Z9pcaXZWcY9z9hjgJoIUi46JI8YVAAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUZUVMrFEWThCaEJJG/7dJSjpxIq7GHWipxIQHy7ZkvdcbqhjgRMEwp7GzGFvLej+aObFMobt5yszRlbWEkbxmQmdBSp/XKihpWFWUsOGw1dh6ihZNgh138iFrL9HUlxTm7cihtGqAJxR8JicZ0rdMAfb3UUXCH+cvAKY+Qdk0ix2WZ/UBbwyqm8IAAAA=[0m[Pipeline] withEnv
+[8mha:////4OXTrmnJiYJ4chWffZ4DhPoWiq2ZFr7o7EzsC+3wKSbLAAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUwIiYukZZOEFoQkgb/V9+UtqJE3E17kBLJSY8WLYl673eUESGE7ETjcXWY6y96ELvpiQG4vYaaBANXURNGClYoeygyNhqqYqShUVZDisJa4t1oOjRJdjIRj90GTS68px42o4Scm/u8IRMTuSkOX3LyLC99SYS/jh/ATB2CfLdfrbD/Cw+y7kUycIAAAA=[0m[Pipeline] {
+[8mha:////4B0huvRi5wUZ/yRNJPrdJzSpttsP8OllIePRSBvMvnsJAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUCDbE1DXKwglCE0La6P/yk9JOnIircQdaKjHhwbItWe/1hiIynIidaCy2HmPtRRd6NyUxELfXQINo6CJqwkjBCmUHRcZWS1WULCzKclhJWFusA0WPLsFGNvqhy6DRlefE03aUkHtzhydkciInzelbRobtrTeR8Mf5C4CxS5Dv9rMd5mfxAbNWnxXCAAAA[0m[Pipeline] timestamps
+[8mha:////4FEZu/3amzJuI3HfkX/m2sllYjNUOPO3w2Qfnjai0xJxAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUSDAhpq5RFk4QmhDSRv+Xn5R24kRcjTvQUokJD5ZtyXqvNxSR4UTsRGOx9RhrL7rQuymJgbi9BhpEQxdRE0YKVig7KDK2WqqiZGFRlsNKwtpiHSh6dAk2stEPXQaNrjwnnrajhNybOzwhkxM5aU7fMjJsb72JhD/OXwCMXYJ8t5/tMD+LD5WQ+PfCAAAA[0m[Pipeline] {
+[8mha:////4BzOr90KCGZwTb9bl5WJHIec/WOReOP1sQjSB9XMqAsYAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUDLAgpq5RFk4QmhDSRv+Xn5R24kRcjTvQUokJD5ZtyXqvNxSR4UTsRGOx9RhrL7rQuymJgbi9BhpEQxdRE0YKVig7KDK2WqqiZGFRlsNKwtpiHSh6dAk2stEPXQaNrjwnnrajhNybOzwhkxM5aU7fMjJsb72JhD/OXwCMXYJ8t5/tMD+LD/s94rDCAAAA[0m[Pipeline] stage
+[8mha:////4EL8RVE4tK6Z9QtW3pZgzLs8+oiEwVtIF2JlggdhDsqKAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohULDAgpq5RFk4QmhDSRv+Xn5R24kRcjTvQUokJD5ZtyXqvNxSR4UTsRGOx9RhrL7rQuymJgbi9BhpEQxdRE0YKVig7KDK2WqqiZGFRlsNKwtpiHSh6dAk2stEPXQaNrjwnnrajhNybOzwhkxM5aU7fMjJsb72JhD/OXwCMXYJ8t5/tMD+LD1+IXOLCAAAA[0m[Pipeline] { (Checkout)
+[8mha:////4OHLq76g07grk4VEmls0p5ryZaeided6VDd3kLFk2Zg2AAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiKpAQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGPIUG53n9qHNxXfVKy+AAAA[0m[Pipeline] checkout
+[2026-04-27T03:08:00.823Z] The recommended git tool is: git.exe
+[2026-04-27T03:08:00.824Z] using credential gitops-creds
+[2026-04-27T03:08:00.833Z]  > git.exe rev-parse --resolve-git-dir C:\Users\MAAZ\Downloads\flappy-fun-main\jenkins-home\workspace\flappy-fun\.git # timeout=10
+[2026-04-27T03:08:00.917Z] Fetching changes from the remote Git repository
+[2026-04-27T03:08:00.929Z]  > git.exe config remote.origin.url https://github.com/maaz-maniyar/flappy-fun.git # timeout=10
+[2026-04-27T03:08:01.021Z] Fetching upstream changes from https://github.com/maaz-maniyar/flappy-fun.git
+[2026-04-27T03:08:01.021Z]  > git.exe --version # timeout=10
+[2026-04-27T03:08:01.109Z]  > git --version # 'git version 2.45.1.windows.1'
+[2026-04-27T03:08:01.109Z] using GIT_ASKPASS to set credentials 
+[2026-04-27T03:08:01.114Z]  > git.exe fetch --tags --force --progress -- https://github.com/maaz-maniyar/flappy-fun.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+[2026-04-27T03:08:02.436Z]  > git.exe rev-parse "refs/remotes/origin/main^{commit}" # timeout=10
+[2026-04-27T03:08:02.516Z] Checking out Revision 99048f533310f085f9622ae45fe27473b1a798d7 (refs/remotes/origin/main)
+[2026-04-27T03:08:02.516Z]  > git.exe config core.sparsecheckout # timeout=10
+[2026-04-27T03:08:02.592Z]  > git.exe checkout -f 99048f533310f085f9622ae45fe27473b1a798d7 # timeout=10
+[2026-04-27T03:08:03.191Z] Commit message: "Add JenkinsFile v2"
+[8mha:////4I5FJRxnEXmGBoeDzVWVHUPJUwHLxvonOjRAr2rX2LzmAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiKoQQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGMIGcrt/lO7N9Jjga++AAAA[0m[Pipeline] }
+[8mha:////4NYhoqRch0ALuL52u2Sntab60yqycSsb8N7g6AN/cYy5AAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOICFDQoFa3lhheYxBgn1l2wHZyKF/E1/oBFJCq2WO1sM683LIOHmr3BTlNvKTQWBzeavDCx76+OE3Z8wYYpsNModZLc6tOMkqOGOUUJCwErTY3jYMlEWItOPVTlFJnqHH3+jgJK297hCYXI5qh8/MLkYXMb28D08/wVwDQMEcr9Ntfu8AERGGHOvgAAAA==[0m[Pipeline] // stage
+[8mha:////4K2/+XAB+MHeFfDNoiguKT2Bnur+tmo4mKzzz1ILTnbyAAAAqB+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohURWJCTF2jLpwgNCEkjf4vSUo6cSKuxh0IVGLCg2Vbst7zBVXwcCSvmVU4GAy9YaObdE4skR8ujhKzdGY9YSCnWKdSR1K1S+0oKlhUlLDisFbYOwoGdYQNt+IuaidQ16fo83bgUBp5gwcUPJOj8PFbZg/b6yQD4Y/zFwDzGKFs9tl2zedZvQHeFw+cwgAAAA==[0m[Pipeline] stage
+[8mha:////4GPr9NZOWzVXqsatX6l7a4PY4GeKvbRb6FEeHO6DwtI2AAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+DOrAycohUdEVMrFEXThCaEJJG/7dJSjpxIq7GHWipxIQHy7ZkvdcbyhjgRMFwp7GzGFvLez+aOfFMobt5ytzRlbeEkbzmjc4NKX1ea0NJw6qCwUbAVmPrKVo0CXbCyYesvERTXVKYt6MAZtUATyjETE4ypG+ZAuzvo4qEP85fAEx9AlYfFquXZ/kBAsTc3cIAAAA=[0m[Pipeline] { (Prepare Metadata)
+[8mha:////4PbrL7LnjeFCpB4B9SxaQGGSDfy/Qj68SscjYJ+ueDLrAAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUKiNiYo2ycILQhJA0+r9NUtKJE3E17kBLJSY8WLYl673eUMUAJwqGOY2dxdha1vvRzIllCt3NU2aOrqwljOQ1EzoLUvq8VkFJw6qihA2HrcbWU7RoEuy4kw9Ze4mmvqQwb0cOpVUDPKHgMznJkL5lCrC/jyoS/jh/ATD1CcqmWeywPKsPpnFij8IAAAA=[0m[Pipeline] script
+[8mha:////4EN8rARvGgxKGPtTLnpqJt3xgs5vsp5Nr4e2wbVWINBwAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUAjbE1DXKwglCE0La6P/yk9JOnIircQdaKjHhwbItWe/1hiIynIidaCy2HmPtRRd6NyUxELfXQINo6CJqwkjBCmUHRcZWS1WULCzKclhJWFusA0WPLsFGNvqhy6DRlefE03aUkHtzhydkciInzelbRobtrTeR8Mf5C4CxS5Dv9rMd5mfxAd6e6VPCAAAA[0m[Pipeline] {
+[8mha:////4KTF0D/+ANE5/GjK1hn2s95afALgzbef+AXd8tqXDzJwAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiIagQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGMIGcrt/lO7N027j1u+AAAA[0m[Pipeline] }
+[8mha:////4BU4orJZa09zdR9dmYzP8DrRtyNKCV6epucsVc5K853kAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIigUSDqNJabniBiY1xYt0Z2yGpeBFf4w8EIlGxxWpnm3m+YJkiHDlabA11jlLjMPjeTgsHjt3F84Atn7FhSuwNSjNI1qaeUXI2MKcoYSFgZajxnBzZDGvRqruqvCJbnXKcvoOA0ukbPKAQkzmrmL8wRthce52Yfp6/AhhDyFBu95/avQFAXH9DvgAAAA==[0m[Pipeline] // script
+[8mha:////4A2ntKYEpleYVZSzFS/EjvWwGfvF9J2Zt8G2Vuaqr+zGAAAApB+LCAAAAAAAAP9tjTESwiAURH/iWNhaeggyk8bCsbJlaDwBJogQ5n8CRFJ5Iq/mHUQzY+UWO/u2ec8XrGOAIwXNrMLBYOwM827SZbFMYbg6yszShXWEkZxiQmVBvTotKCgpWFLVsOKwUdg5igZ1gi238i4bJ1E35xTKd+BQm36EB1S8mJMM6QtzgN1t6iPhz/NXALP3Cep2/6n2DXO/JP++AAAA[0m[Pipeline] }
+[8mha:////4ERhvsBuUUt3LpwsItaAG0h6qwa06GQzcUrQXcePP6F8AAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiqJAQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGMIGcrd/lPbNxxce5e+AAAA[0m[Pipeline] // stage
+[8mha:////4Gd3hFK+bq30wwknD+kc0y2JHm1kIAKm6qhmToFBAcOiAAAAqB+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUIDEg1Ik16sIJQhNC0uj/kqSkEyfiatyBQCUmPFi2Jes9X1AFDw15zazC3mDoDBvcqHNiiXx/cZSYpTPrCAM5xVqVWpLqONeWooJZRQkLDkuFnaNgUEdYcSvuonYCdX2KPm8HDqWRN3hAwTM5Ch+/ZfKwvo4yEP44fwEwDRHKzS7bdv95Vm+zlVxwwgAAAA==[0m[Pipeline] stage
+[8mha:////4NbI1xXa4WYEURkMtXKWRJnivStOiUsmJEllHDO3IE/4AAAAqB+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycogUwYRQJ9aoCycITQhJo/9LkpJOnIircQcClZjwYNmWrPd8QRU8NOQ1swp7g6EzbHCjzokl8v3FUWKWzqwjDOQUa1VqSarjXFuKCmYVJSw4LBV2joJBHWHFrbiL2gnU9Sn6vB04lEbe4AEFz+QofPyWycP6OspA+OP8BcA0RCi3+2y7zedZvQH4j6CMwgAAAA==[0m[Pipeline] { (Install)
+[8mha:////4G67hcpzy0s5e9rE5oQ/RnRVC/XVX90aNOQjGnFEpZfCAAAAox+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOICokRUaS03vMDExjix7oztkFS8iK/xBwKRqNhitbPNPF+wTBGOHC22hjpHqXEYfG+nhQPH7uJ5wJbP2DAl9galGSRrU88oORuYU5SwELAy1HhOjmyGtWjVXVVeka1OOU7fQUDp9A0eUIjJnFXMXxgjbK69Tkw/z18BjCFDud9+ahfewYmQ+b4AAAA=[0m[Pipeline] bat
+[2026-04-27T03:08:05.298Z] 
+[2026-04-27T03:08:05.299Z] C:\Users\MAAZ\Downloads\flappy-fun-main\jenkins-home\workspace\flappy-fun>npm.cmd ci 
+[2026-04-27T03:09:26.737Z] npm error code EUSAGE
+[2026-04-27T03:09:26.737Z] npm error
+[2026-04-27T03:09:26.737Z] npm error The `npm ci` command can only install with an existing package-lock.json or
+[2026-04-27T03:09:26.737Z] npm error npm-shrinkwrap.json with lockfileVersion >= 1. Run an install with npm@5 or
+[2026-04-27T03:09:26.737Z] npm error later to generate a package-lock.json file, then try again.
+[2026-04-27T03:09:26.737Z] npm error
+[2026-04-27T03:09:26.737Z] npm error Clean install a project
+[2026-04-27T03:09:26.737Z] npm error
+[2026-04-27T03:09:26.737Z] npm error Usage:
+[2026-04-27T03:09:26.737Z] npm error npm ci
+[2026-04-27T03:09:26.737Z] npm error
+[2026-04-27T03:09:26.737Z] npm error Options:
+[2026-04-27T03:09:26.737Z] npm error [--install-strategy <hoisted|nested|shallow|linked>] [--legacy-bundling]
+[2026-04-27T03:09:26.737Z] npm error [--global-style] [--omit <dev|optional|peer> [--omit <dev|optional|peer> ...]]
+[2026-04-27T03:09:26.737Z] npm error [--include <prod|dev|optional|peer> [--include <prod|dev|optional|peer> ...]]
+[2026-04-27T03:09:26.737Z] npm error [--strict-peer-deps] [--foreground-scripts] [--ignore-scripts] [--no-audit]
+[2026-04-27T03:09:26.737Z] npm error [--no-bin-links] [--no-fund] [--dry-run]
+[2026-04-27T03:09:26.738Z] npm error [-w|--workspace <workspace-name> [-w|--workspace <workspace-name> ...]]
+[2026-04-27T03:09:26.738Z] npm error [-ws|--workspaces] [--include-workspace-root] [--install-links]
+[2026-04-27T03:09:26.738Z] npm error
+[2026-04-27T03:09:26.738Z] npm error aliases: clean-install, ic, install-clean, isntall-clean
+[2026-04-27T03:09:26.738Z] npm error
+[2026-04-27T03:09:26.738Z] npm error Run "npm help ci" for more info
+[2026-04-27T03:09:26.738Z] 
+[2026-04-27T03:09:26.738Z] npm error A complete log of this run can be found in: C:\Users\MAAZ\AppData\Local\npm-cache\_logs\2026-04-27T03_08_05_465Z-debug-0.log
+[8mha:////4FF4lFq2kZmAP7UyL/fbeUh/LouPx0JWAocAHC/ktSnPAAAAox+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOKCoERUaS03vMDExjix7oztkFS8iK/xBwKRqNhitbPNPF+wTBGOHC22hjpHqXEYfG+nhQPH7uJ5wJbP2DAl9galGSRrU88oORuYU5SwELAy1HhOjmyGtWjVXVVeka1OOU7fQUDp9A0eUIjJnFXMXxgjbK69Tkw/z18BjCFkKPe7T23fGXWL/r4AAAA=[0m[Pipeline] }
+[8mha:////4PICd5H4DWh8Dtl1ImyEnn7Da+7tlDOWIC4X8V4U73esAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPMKRSIUQVVorDS8w8WGcWHfGdkgqXsTX+AMWkajYYrWzzbzesI4BThyM6JEGS7GzwrvR5CUmDsPV8SR6voiOKbJD0eLUssZmwZYTwpKihJWEDVLnOFoyCbayVw9VOUWmOqeQv6OE0uo7PKGQ2ZxUSF+YA+xuo45MP89fAczeJyjrOtf+8AFZLxBVvgAAAA==[0m[Pipeline] // stage
+[8mha:////4GFC+yC9zFaMTwxR62xuFH1DhxMZYKVz3E6klRMwQre1AAAAqB+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUCJhQJ9aoCycITQhJo/9LkpJOnIircQcClZjwYNmWrPd8QRU8NOQ1swp7g6EzbHCjzokl8v3FUWKWzqwjDOQUa1VqSarjXFuKCmYVJSw4LBV2joJBHWHFrbiL2gnU9Sn6vB04lEbe4AEFz+QofPyWycP6OspA+OP8BcA0RCg3+2zb3edZvQHZjbVqwgAAAA==[0m[Pipeline] stage
+[8mha:////4E+htIy4JUiy4Lq0DBIhyUWzW/bNluKFpe55c55nQ9nvAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycoh0ACbE1DXKwglCE0La6P/yk9JOnIircQdaKjHhwbItWe/1hiIynIidaCy2HmPtRRd6NyUxELfXQINo6CJqwkjBCmUHRcZWS1WULCzKclhJWFusA0WPLsFGNvqhy6DRlefE03aUkHtzhydkciInzelbRobtrTeR8Mf5C4CxS5Dv9rMd5mfxASMfXIzCAAAA[0m[Pipeline] { (Lint)
+Stage "Lint" skipped due to earlier failure(s)
+[8mha:////4AtHQU4HfROjL7weDLfofbo/IMv86OOrOq/73ByTd0liAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOJSIGgQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGPIUG53n9qHN6Ew6eS+AAAA[0m[Pipeline] getContext
+[8mha:////4LvZRZVNPaBNDkCTTRn9BfkqHc8EuI8DQPQ8SyPOjvZUAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOJSIESBqNJabniBiY1xYt0Z2yGpeBFf4w8EIlGxxWpnm3m+YJkiHDlabA11jlLjMPjeTgsHjt3F84Atn7FhSuwNSjNI1qaeUXI2MKcoYSFgZajxnBzZDGvRqruqvCJbnXKcvoOA0ukbPKAQkzmrmL8wRthce52Yfp6/AhhDyFBu95/avQElECzevgAAAA==[0m[Pipeline] }
+[8mha:////4JVb5OOvfqTpUDkmznfk15qn1D3c+W41AzDf7T4KewoZAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOJSQIGEqNJabniBiY1xYt0Z2yGpeBFf4w8EIlGxxWpnm3m+YJkiHDlabA11jlLjMPjeTgsHjt3F84Atn7FhSuwNSjNI1qaeUXI2MKcoYSFgZajxnBzZDGvRqruqvCJbnXKcvoOA0ukbPKAQkzmrmL8wRthce52Yfp6/AhhDyFBu95/avQFmkn1YvgAAAA==[0m[Pipeline] // stage
+[8mha:////4OoIcP3x65TrhkDVdmv3ENSR1oLEd3PGfZOPmV/22SexAAAAqB+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUCDEg1Ik16sIJQhNC0uj/kqSkEyfiatyBQCUmPFi2Jes9X1AFDw15zazC3mDoDBvcqHNiiXx/cZSYpTPrCAM5xVqVWpLqONeWooJZRQkLDkuFnaNgUEdYcSvuonYCdX2KPm8HDqWRN3hAwTM5Ch+/ZfKwvo4yEP44fwEwDRHKzS7bdv95Vm8HnivWwgAAAA==[0m[Pipeline] stage
+[8mha:////4KfnvaKhd34+iZaNswNMeK4FMZ72T0PEBRo5PNcq2KJpAAAAqB+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycogUCRaEOrFGXThBaEJIGv1fkpR04kRcjTsQqMSEB8u2ZL3nC6rgoSGvmVXYGwydYYMbdU4ske8vjhKzdGYdYSCnWKtSS1Id59pSVDCrKGHBYamwcxQM6ggrbsVd1E6grk/R5+3AoTTyBg8oeCZH4eO3TB7W11EGwh/nLwCmIUK53WfbbT7P6g0Z/aLSwgAAAA==[0m[Pipeline] { (Test)
+Stage "Test" skipped due to earlier failure(s)
+[8mha:////4MN4DewGroc7GB6PN71IU1anZNzaMkjuHK8L6MD8yGChAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOICEh2iSmu54QUmNsaJdWdsh6TiRXyNPxCIRMUWq51t5vmCZYpw5GixNdQ5So3D4Hs7LRw4dhfPA7Z8xoYpsTcozSBZm3pGydnAnKKEhYCVocZzcmQzrEWr7qryimx1ynH6DgJKp2/wgEJM5qxi/sIYYXPtdWL6ef4KYAwZyv32U7vwBl2WGva+AAAA[0m[Pipeline] getContext
+[8mha:////4K6vrGDiOQx0ci1QjiuL+m7GevAm9ashIsFTOGaJ+PT7AAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOKCEB2iSmu54QUmNsaJdWdsh6TiRXyNPxCIRMUWq51t5vmCZYpw5GixNdQ5So3D4Hs7LRw4dhfPA7Z8xoYpsTcozSBZm3pGydnAnKKEhYCVocZzcmQzrEWr7qryimx1ynH6DgJKp2/wgEJM5qxi/sIYYXPtdWL6ef4KYAwhQ7nffWr7BlDdbXS+AAAA[0m[Pipeline] }
+[8mha:////4AsHQBC63P8CJJgEbcmK6wnHugA/FnfeSXVWf764K/dJAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOJShAYhqrRWGl5gYmOcWHfGdkgqXsTX+AMWkajYYrWzzbzesI4BThwM9poGS7Gz6N1o8sKJw3B1PGHPF+yYIjuNrZ5aVrpZsOWkYUlRwkrARlPnOFoyCbailw9ZOUmmOqeQv6OA0qo7PKEQ2ZxkSF+YA+xuo4pMP89fAczeJyj3da768AGWIKyJvgAAAA==[0m[Pipeline] // stage
+[8mha:////4MeM3AJAxW+isGzVwbvoFOU5uUMSvQ3fq+SFPBUAUzerAAAAqB+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUSGVCTF2jLJwgJCGkjf4vSUo7cSKuxh0IVGLCg2Vbst7zBVUMcKRgWWewdxiVY4MfbU5sotBfPE2sozNThJG8YcJMgrRplyooGVhUlLDisDaoPEWHNsGGd/Iuay/R1qcU8nbgUDp9gwcUPJOTDOlb5gDb66gj4Y/zFwDzkKDc7bM1zedZvQFXsxKvwgAAAA==[0m[Pipeline] stage
+[8mha:////4MlPi8s9T4kXIOFRcmMQLIuHvEgMpc+Xmckix0/Rig8uAAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycoh0KRNiYo2ycILQhJA0+r9NUtKJE3E17kBLJSY8WLYl673eUMUAJwqGOY2dxdha1vvRzIllCt3NU2aOrqwljOQ1EzoLUvq8VkFJw6qihA2HrcbWU7RoEuy4kw9Ze4mmvqQwb0cOpVUDPKHgMznJkL5lCrC/jyoS/jh/ATD1CcqmWeywPKsPIshjPcIAAAA=[0m[Pipeline] { (SonarQube Scan)
+Stage "SonarQube Scan" skipped due to earlier failure(s)
+[8mha:////4IaAskRFNeF0wyvZL8XN8saPE/MY7xQwKCa88EBd6y7mAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOLSAA2iSmu54QUmNsaJdWdsh6TiRXyNPxCIRMUWq51t5vmCZYpw5GixNdQ5So3D4Hs7LRw4dhfPA7Z8xoYpsTcozSBZm3pGydnAnKKEhYCVocZzcmQzrEWr7qryimx1ynH6DgJKp2/wgEJM5qxi/sIYYXPtdWL6ef4KYAwZyu3uU/vwBj0vY+u+AAAA[0m[Pipeline] getContext
+[8mha:////4AqM+HSqIQ1Ik4B391L3cJsO8GW6/RCXfy4DFcZ4u+06AAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOLSgCgQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGMIGcrt/lO7N2y4ylS+AAAA[0m[Pipeline] }
+[8mha:////4Ik6GMG/5X4grNbVi+ng/QkqWocptQJdapSwDSDRyk/MAAAApB+LCAAAAAAAAP9tjTESwiAURH/iWNhaegjSpHDGsbJlaDwBJogQ5n8CRFJ5Iq/mHUQzY+UWO/u2ec8XrGOAIwXNrMLBYOwM827SZbFMYbg6yszShXWEkZxiQmVBvTotKCgpWFLVsOKwUdg5igZ1gi238i4bJ1E35xTKd+BQm36EB1S8mJMM6QtzgN1t6iPhz/NXALP3Cep2/6n2DS86m9K+AAAA[0m[Pipeline] // stage
+[8mha:////4DmbN01Txq7VKESIZLt2zhZoHkXNfqhX6fmgmVF7zR9NAAAAqB+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUSDAg1Ik16sIJQhNC0uj/kqSkEyfiatyBQCUmPFi2Jes9X1AFDw15zazC3mDoDBvcqHNiiXx/cZSYpTPrCAM5xVqVWpLqONeWooJZRQkLDkuFnaNgUEdYcSvuonYCdX2KPm8HDqWRN3hAwTM5Ch+/ZfKwvo4yEP44fwEwDRHKzS7bdv95Vm+JoIwTwgAAAA==[0m[Pipeline] stage
+[8mha:////4F2RxFvA7nHaJC5qx+T0e9i4Q115IwbX3B4DVLG5zfWnAAAAqB+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycoiUAQaEOrFGXThBaEJIGv1fkpR04kRcjTsQqMSEB8u2ZL3nC6rgoSGvmVXYGwydYYMbdU4ske8vjhKzdGYdYSCnWKtSS1Id59pSVDCrKGHBYamwcxQM6ggrbsVd1E6grk/R5+3AoTTyBg8oeCZH4eO3TB7W11EGwh/nLwCmIUK53WfbbT7P6g0iH00AwgAAAA==[0m[Pipeline] { (Quality Gate)
+Stage "Quality Gate" skipped due to earlier failure(s)
+[8mha:////4GpeKAFOTSjexXyfBm1uszPS3oTrzkQ4a0NBIdVw8dTvAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOICBRWiSmu54QUmNsaJdWdsh6TiRXyNPxCIRMUWq51t5vmCZYpw5GixNdQ5So3D4Hs7LRw4dhfPA7Z8xoYpsTcozSBZm3pGydnAnKKEhYCVocZzcmQzrEWr7qryimx1ynH6DgJKp2/wgEJM5qxi/sIYYXPtdWL6ef4KYAwZyv32U7vwBvT8cju+AAAA[0m[Pipeline] getContext
+[8mha:////4PdJS6IaJOFKjU/03g4DxJFqmvks/kPdFIP7F+fmhDoTAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOKCkKgQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGMIGcr97lPbN6XnAcu+AAAA[0m[Pipeline] }
+[8mha:////4BdqqcUe1vCpqXZm8zp09AV+jBuKVsMAYTc3F1KfkXk0AAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOJSAAVCqWgtN7zAJMY4se6C7eBUvIiv8QcsIlGxxWpnm3m9YRk81OwNdpp6S6GxOLjR5IWJfX91nLDjCzZMgZ1GqZPkVp9mlBw1zClKWAhYaWocB0smwlp06qEqp8hU5+jzdxRQ2vYOTyhENkfl4xcmD5vb2Aamn+evAKZhiFDut7l2hw/lvZpgvgAAAA==[0m[Pipeline] // stage
+[8mha:////4H5Fr18OB0IM2J/fqXtRJ/dJytcAoVTcBvUpdEsB/ivjAAAAqB+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUSHRCTF2jLJwgJCGkjf4vSUo7cSKuxh0IVGLCg2Vbst7zBVUMcKRgWWewdxiVY4MfbU5sotBfPE2sozNThJG8YcJMgrRplyooGVhUlLDisDaoPEWHNsGGd/Iuay/R1qcU8nbgUDp9gwcUPJOTDOlb5gDb66gj4Y/zFwDzkKDcNdma/edZvQHjuGUJwgAAAA==[0m[Pipeline] stage
+[8mha:////4CVihRJdfUXJ3Bv/H7c6dT/JDKrPP2rL/Q+x46nxcGk6AAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+DOrAycoh0oRNiYo26cILQhJA0+r9NUtKJE3E17kBLJSY8WLYl673eUMYAJwqGO42dxdha3vvRzIlnCt3NU+aOrrwljOQ1b3RuSOnzWhtKGlYVDDYCthpbT9GiSbATTj5k5SWa6pLCvB0FMKsGeEIhZnKSIX3LFGB/H1Uk/HH+AmDqE7D6sFi9PMsP+Y+xAMIAAAA=[0m[Pipeline] { (Build App)
+Stage "Build App" skipped due to earlier failure(s)
+[8mha:////4A0JsPhGb44k4vQDZtcza1UI+ybCEqF9olrSvtANBHwXAAAAox+LCAAAAAAAAP9tjTESwiAURH/iWNhaeghSxcaxsmVoPAEmiBDmfwJEUnkir+YdRDNj5RY7+7Z5zxesY4AjBc2swsFg7AzzbtJlsUxhuDrKzNKFdYSRnGJCZUG9Oi0oKClYUtWw4rBR2DmKBnWCLbfyLhsnUTfnFMp34FCbfoQHVLyYkwzpC3OA3W3qI+HP81cAs09Qt+2n9v4NlEULJr4AAAA=[0m[Pipeline] getContext
+[8mha:////4D/cpOLAzNmmC2SgVbPg7C3tllT5xz1Ot5oqsqlnE7ubAAAAox+LCAAAAAAAAP9tjTESwiAURH/iWNhaeghSZSwcK1uGxhNggghh/idAJJUn8mreQTQzVm6xs2+b93zBOgY4UtDMKhwMxs4w7yZdFssUhqujzCxdWEcYySkmVBbUq9OCgpKCJVUNKw4bhZ2jaFAn2HIr77JxEnVzTqF8Bw616Ud4QMWLOcmQvjAH2N2mPhL+PH8FMHufoG73n2rfmYKm674AAAA=[0m[Pipeline] }
+[8mha:////4JZQyC//+CbzhjOAF/7IWFz0irsUTFr5vwPjLgtuSZq2AAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOLSgISEqNJabniBiY1xYt0Z2yGpeBFf4w8EIlGxxWpnm3m+YJkiHDlabA11jlLjMPjeTgsHjt3F84Atn7FhSuwNSjNI1qaeUXI2MKcoYSFgZajxnBzZDGvRqruqvCJbnXKcvoOA0ukbPKAQkzmrmL8wRthce52Yfp6/AhhDyFDu9p/avgHaAPdtvgAAAA==[0m[Pipeline] // stage
+[8mha:////4NMbTR9xBgYBhloK2l0ImE7oZ/161yDDWY8mj19CkJdkAAAAqB+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUDB0QYuoaZeEEIQkhbfR/SVLaiRNxNe5AoBITHizbkvWeL6higCMFyzqDvcOoHBv8aHNiE4X+4mliHZ2ZIozkDRNmEqRNu1RBycCiooQVh7VB5Sk6tAk2vJN3WXuJtj6lkLcDh9LpGzyg4JmcZEjfMgfYXkcdCX+cvwCYhwTlrsnW7D/P6g09q/u1wgAAAA==[0m[Pipeline] stage
+[8mha:////4DYPWmh7fVyyrFa+Sx5jEJ8944+9NqRW7LMMq26/CTSXAAAAqB+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycoiUBSSEOrFGXThBaEJIGv1fkpR04kRcjTsQqMSEB8u2ZL3nC6rgoSGvmVXYGwydYYMbdU4ske8vjhKzdGYdYSCnWKtSS1Id59pSVDCrKGHBYamwcxQM6ggrbsVd1E6grk/R5+3AoTTyBg8oeCZH4eO3TB7W11EGwh/nLwCmIUK53WfbbT7P6g3QSQCqwgAAAA==[0m[Pipeline] { (Build Image)
+Stage "Build Image" skipped due to earlier failure(s)
+[8mha:////4BL/4fWZYYfRKxqEmK0Q7losOOmwN+8W6VZ+U06TCpoIAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOICDQ2iSmu54QUmNsaJdWdsh6TiRXyNPxCIRMUWq51t5vmCZYpw5GixNdQ5So3D4Hs7LRw4dhfPA7Z8xoYpsTcozSBZm3pGydnAnKKEhYCVocZzcmQzrEWr7qryimx1ynH6DgJKp2/wgEJM5qxi/sIYYXPtdWL6ef4KYAwZyv32U7vwBk5Fu7e+AAAA[0m[Pipeline] getContext
+[8mha:////4B+f0+EETeW5JgrKY8lRrA9iGb3rqygWJ8byNnJOb8vxAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOKCKGgQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGMIGcr97lPbN/uuxNG+AAAA[0m[Pipeline] }
+[8mha:////4Asq2DGR9bpvH1/oQLJKiceYROZjXMOUfRer29kF8AQjAAAAph+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOJSIJAQSkVrueEFJjHGiXUXbAen4kV8jT9gEYmKLVY728zrDcvgoWZvsNPUWwqNxcGNJi9M7Pur44QdX7BhCuw0Sp0kt/o0o+SoYU5RwkLASlPjOFgyEdaiUw9VOUWmOkefv6OA0rZ3eEIhsjkqH78wedjcxjYw/Tx/BTANQ4Ryv821O3wAOZZpSL4AAAA=[0m[Pipeline] // stage
+[8mha:////4Fbs55tNyP0v3lHeZoSCWbLToU4q0xDOWSqemFzXsZ0zAAAAqB+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUSMCCOrFGXThBaEJIGv1fkpR04kRcjTsQqMSEB8u2ZL3nC6rgoSGvmVXYGwydYYMbdU4ske8vjhKzdGYdYSCnWKtSS1Id59pSVDCrKGHBYamwcxQM6ggrbsVd1E6grk/R5+3AoTTyBg8oeCZH4eO3TB7W11EGwh/nLwCmIUK52WXbbz/P6g1+oo04wgAAAA==[0m[Pipeline] stage
+[8mha:////4B7cY9nWh3823DKpG2TCOYP3FZIInBDTF2XC1WJgAEzMAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycoh0ARbE1DXKwglCE0La6P/yk9JOnIircQdaKjHhwbItWe/1hiIynIidaCy2HmPtRRd6NyUxELfXQINo6CJqwkjBCmUHRcZWS1WULCzKclhJWFusA0WPLsFGNvqhy6DRlefE03aUkHtzhydkciInzelbRobtrTeR8Mf5C4CxS5AfdrPt52fxAZRHx0bCAAAA[0m[Pipeline] { (Scan Image)
+Stage "Scan Image" skipped due to earlier failure(s)
+[8mha:////4IBUFP5MSTGnP9J2TaPLbdIA1eZ/FyQvkzW+z2QqeS3dAAAAox+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOJSkQZR0VppeIFJjLFj3Tm2g1PxIr7GHwhEomKL1c4283zBOgY4ctBoFfWGYmvQu1HPCzOH/uo4o+ULtkyRncJG5YY7dVqw4aRgSVHCSsBGUes4GtIJtsLKu6ycJF2dU5i/g4DSdAM8oBCzOcmQvjAF2N3GLjL9PH8FMPkEZb3/VO3fLvzCqr4AAAA=[0m[Pipeline] getContext
+[8mha:////4HAU9odhT6Xkyz1f3rosLmELhQMBisZZC1uNFezfH1KbAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOJSAQWiSmu54QUmNsaJdWdsh6TiRXyNPxCIRMUWq51t5vmCZYpw5GixNdQ5So3D4Hs7LRw4dhfPA7Z8xoYpsTcozSBZm3pGydnAnKKEhYCVocZzcmQzrEWr7qryimx1ynH6DgJKp2/wgEJM5qxi/sIYYXPtdWL6ef4KYAwhQ7nbf2r7BsfLY/G+AAAA[0m[Pipeline] }
+[8mha:////4OCzfAm24XaVGOrWcm1Uc+GNd7HrtPmA/4nauWkLpT3oAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOLSIISEqNJabniBiY1xYt0Z2yGpeBFf4w8EIlGxxWpnm3m+YJkiHDlabA11jlLjMPjeTgsHjt3F84Atn7FhSuwNSjNI1qaeUXI2MKcoYSFgZajxnBzZDGvRqruqvCJbnXKcvoOA0ukbPKAQkzmrmL8wRthce52Yfp6/AhhDyFDu9p/avgGESTJ3vgAAAA==[0m[Pipeline] // stage
+[8mha:////4I6UVLYc9rtaPmiqmICApPWYqY7NmZRgfcy9Ga7tWsRvAAAAqB+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUDCAh1Ik16sIJQhNC0uj/kqSkEyfiatyBQCUmPFi2Jes9X1AFDw15zazC3mDoDBvcqHNiiXx/cZSYpTPrCAM5xVqVWpLqONeWooJZRQkLDkuFnaNgUEdYcSvuonYCdX2KPm8HDqWRN3hAwTM5Ch+/ZfKwvo4yEP44fwEwDRHKzTbbbv95Vm+gsROEwgAAAA==[0m[Pipeline] stage
+[8mha:////4OiG2a7cPtzQH5wxQNQk/356rfMR9KoJnK7TzizuByLlAAAAqB+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycoiUCYRQJ9aoCycITQhJo/9LkpJOnIircQcClZjwYNmWrPd8QRU8NOQ1swp7g6EzbHCjzokl8v3FUWKWzqwjDOQUa1VqSarjXFuKCmYVJSw4LBV2joJBHWHFrbiL2gnU9Sn6vB04lEbe4AEFz+QofPyWycP6OspA+OP8BcA0RCi3+2y7zedZvQGUkOl7wgAAAA==[0m[Pipeline] { (Push Image)
+Stage "Push Image" skipped due to earlier failure(s)
+[8mha:////4AFPuarPMV1Cdfne+ntyXBvNhL4urcNNWqx8Cs8ldrOcAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOICFQWiSmu54QUmNsaJdWdsh6TiRXyNPxCIRMUWq51t5vmCZYpw5GixNdQ5So3D4Hs7LRw4dhfPA7Z8xoYpsTcozSBZm3pGydnAnKKEhYCVocZzcmQzrEWr7qryimx1ynH6DgJKp2/wgEJM5qxi/sIYYXPtdWL6ef4KYAwZyv32U7vwBucv03q+AAAA[0m[Pipeline] getContext
+[8mha:////4CjIF6qA9Caswnff7MiL8IR0g4EybiJrsuZ1no+G7xUfAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOKCaCgQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGMIGcr97lPbNw6UqG6+AAAA[0m[Pipeline] }
+[8mha:////4PLRgRsMZcrsL6QCxPCxzHlLDLnhor091y9YLYw8PeLUAAAAph+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOJSIIEQSkVrueEFJjHGiXUXbAen4kV8jT9gEYmKLVY728zrDcvgoWZvsNPUWwqNxcGNJi9M7Pur44QdX7BhCuw0Sp0kt/o0o+SoYU5RwkLASlPjOFgyEdaiUw9VOUWmOkefv6OA0rZ3eEIhsjkqH78wedjcxjYw/Tx/BTANQ4Ryv821O3wATs4zxb4AAAA=[0m[Pipeline] // stage
+[8mha:////4J/L/NKMjUobJGVvfrticYeTBV8TDtOSmGSYw5ZyTGMkAAAAqB+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUSCAG1Ik16sIJQhNC0uj/kqSkEyfiatyBQCUmPFi2Jes9X1AFDw15zazC3mDoDBvcqHNiiXx/cZSYpTPrCAM5xVqVWpLqONeWooJZRQkLDkuFnaNgUEdYcSvuonYCdX2KPm8HDqWRN3hAwTM5Ch+/ZfKwvo4yEP44fwEwDRHKzS7bfvt5Vm/KqfqewgAAAA==[0m[Pipeline] stage
+[8mha:////4KujP4nm6brSgeQCcqEy57TbD0HgyQ5wjZNDtqDO5bShAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycoh0ATEgpq5RFk4QmhDSRv+Xn5R24kRcjTvQUokJD5ZtyXqvNxSR4UTsRGOx9RhrL7rQuymJgbi9BhpEQxdRE0YKVig7KDK2WqqiZGFRlsNKwtpiHSh6dAk2stEPXQaNrjwnnrajhNybOzwhkxM5aU7fMjJsb72JhD/OXwCMXYL8sJttPz+LD08AFXvCAAAA[0m[Pipeline] { (Update GitOps Repo)
+Stage "Update GitOps Repo" skipped due to earlier failure(s)
+[8mha:////4GiOyfMqY/P0OOyxmySNWH+jDseQaSx4ut1rYFGw3dA7AAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOJSAQWiSmu54QUmNsaJdWdsh6TiRXyNPxCIRMUWq51t5vmCZYpw5GixNdQ5So3D4Hs7LRw4dhfPA7Z8xoYpsTcozSBZm3pGydnAnKKEhYCVocZzcmQzrEWr7qryimx1ynH6DgJKp2/wgEJM5qxi/sIYYXPtdWL6ef4KYAwZyv32U7vwBoeWqme+AAAA[0m[Pipeline] getContext
+[8mha:////4Pv0LGQBYW09yU2uuMXXFotyrTIwv1JC0qa7CVR69/42AAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOJSoRSIitZKwwtMYowd686xHZyKF/E1/kAgEhVbrHa2mecL1jHAkYNGq6g3FFuD3o16Xpg59FfHGS1fsGWK7BQ2KjfcqdOCDScFS4oSVgI2ilrH0ZBOsBVW3mXlJOnqnML8HQSUphvgAYWYzUmG9IUpwO42dpHp5/krgMn7BGVdf2r/BjLxD06+AAAA[0m[Pipeline] }
+[8mha:////4Bg6IU8AjcDd1w9C2NQMGTSLMysraEe7YKNvoAdoo/UOAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOLSIIGEqNJabniBiY1xYt0Z2yGpeBFf4w8EIlGxxWpnm3m+YJkiHDlabA11jlLjMPjeTgsHjt3F84Atn7FhSuwNSjNI1qaeUXI2MKcoYSFgZajxnBzZDGvRqruqvCJbnXKcvoOA0ukbPKAQkzmrmL8wRthce52Yfp6/AhhDyFDu9p/avgFxc17IvgAAAA==[0m[Pipeline] // stage
+[8mha:////4BV7uDGM2xgRg7uXwIyLsU5qy6Tr7ELVvQTWQvY4k4b7AAAAqB+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUDAgh1Ik16sIJQhNC0uj/kqSkEyfiatyBQCUmPFi2Jes9X1AFDw15zazC3mDoDBvcqHNiiXx/cZSYpTPrCAM5xVqVWpLqONeWooJZRQkLDkuFnaNgUEdYcSvuonYCdX2KPm8HDqWRN3hAwTM5Ch+/ZfKwvo4yEP44fwEwDRHKzTbbbv95Vm8UumQiwgAAAA==[0m[Pipeline] stage
+[8mha:////4Ppo/0hLVDA4+lhAEENfozjNzsVU115Jp2RbaExaV5aGAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycoiUDRDqxBp14QShCSFp9H9JUtKJE3E17kCgEhMeLNuS9Z4vqIKHhrxmVmFvMHSGDW7UObFEvr84SszSmXWEgZxirUotSXWca0tRwayihAWHpcLOUTCoI6y4FXdRO4G6PkWftwOH0sgbPKDgmRyFj98yeVhfRxkIf5y/AJiGCOV2n223+TyrNxKsBBbCAAAA[0m[Pipeline] { (Declarative: Post Actions)
+[8mha:////4M5y81GDywo7uL+sXc2iTtVIlMuITxp9ByCeDoGC1XVjAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOICHRKiSmu54QUmNsaJdWdsh6TiRXyNPxCIRMUWq51t5vmCZYpw5GixNdQ5So3D4Hs7LRw4dhfPA7Z8xoYpsTcozSBZm3pGydnAnKKEhYCVocZzcmQzrEWr7qryimx1ynH6DgJKp2/wgEJM5qxi/sIYYXPtdWL6ef4KYAwZyv32U7vwBnZ6r6i+AAAA[0m[Pipeline] powershell
+[2026-04-27T03:09:31.643Z] powershell.exe : Error response from daemon: No such image: maazjazelle/flappy-fun:5-99048f5
+[2026-04-27T03:09:31.643Z] At C:\Users\MAAZ\Downloads\flappy-fun-main\jenkins-home\workspace\flappy-fun@tmp\durable-dc999376\powershellWrapper.ps1:3 char:1
+[2026-04-27T03:09:31.643Z] + & powershell -NoProfile -NonInteractive -ExecutionPolicy Bypass -Comm ...
+[2026-04-27T03:09:31.643Z] + ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[2026-04-27T03:09:31.643Z]     + CategoryInfo          : NotSpecified: (Error response ...y-fun:5-99048f5:String) [], RemoteException
+[2026-04-27T03:09:31.643Z]     + FullyQualifiedErrorId : NativeCommandError
+[2026-04-27T03:09:31.643Z]  
+[2026-04-27T03:09:31.643Z] Error response from daemon: No such image: maazjazelle/flappy-fun:latest
+[2026-04-27T03:09:31.643Z] Docker image cleanup skipped
+Error when executing always post condition:
+Also:   org.jenkinsci.plugins.workflow.actions.ErrorAction$ErrorId: 02ec3fe3-0da0-4826-9073-b1e80c7d491a
+hudson.AbortException: script returned exit code 1
+	at PluginClassLoader for workflow-durable-task-step//org.jenkinsci.plugins.workflow.steps.durable_task.DurableTaskStep$Execution.handleExit(DurableTaskStep.java:693)
+	at PluginClassLoader for workflow-durable-task-step//org.jenkinsci.plugins.workflow.steps.durable_task.DurableTaskStep$Execution.check(DurableTaskStep.java:625)
+	at PluginClassLoader for workflow-durable-task-step//org.jenkinsci.plugins.workflow.steps.durable_task.DurableTaskStep$Execution.run(DurableTaskStep.java:566)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:572)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:317)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[8mha:////4KuT24g8zylbz3o7NR0zsd23q82wzbzSJhBDCaA1GLleAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOKCqJAQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGMIGcr97lPbNyj4eB++AAAA[0m[Pipeline] }
+[8mha:////4BZZ8ZlhZjUJM+vtxKhfcyC/fhh+nb2lAEhJ4dIA9AXKAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOJSUABCqWgtN7zAJMY4se6C7eBUvIiv8QcsIlGxxWpnm3m9YRk81OwNdpp6S6GxOLjR5IWJfX91nLDjCzZMgZ1GqZPkVp9mlBw1zClKWAhYaWocB0smwlp06qEqp8hU5+jzdxRQ2vYOTyhENkfl4xcmD5vb2Aamn+evAKZhiFDut7l2hw/mj2AqvgAAAA==[0m[Pipeline] // stage
+[8mha:////4PH32/GqM/vn9X1XbpVxqayhD3dwboW6amY7C1A3vS6+AAAAph+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiJJCQUCpayw0vMIkxTqy7YDs4FS/ia/wBi0hUbLHa2WZeb1gGDzV7g52m3lJoLA5uNHlhYt9fHSfs+IINU2CnUeokudWnGSVHDXOKEhYCVpoax8GSibAWnXqoyiky1Tn6/B0FlLa9wxMKkc1R+fiFycPmNraB6ef5K4BpGCKUh12u7f4D81SJaL4AAAA=[0m[Pipeline] }
+[8mha:////4NzyTdlMi+6F2Y4lJ90KKnDPc7Yqyor2uk0fYz/UtXFVAAAAph+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiJJCQUCpayw0vMIkxTqy7YDs4FS/ia/wBi0hUbLHa2WZeb1gGDzV7g52m3lJoLA5uNHlhYt9fHSfs+IINU2CnUeokudWnGSVHDXOKEhYCVpoax8GSibAWnXqoyiky1Tn6/B0FlLa9wxMKkc1R+fiFycPmNraB6ef5K4BpGCKUh32u7e4DwLfS1L4AAAA=[0m[Pipeline] // timestamps
+[8mha:////4OQN+Tt0wUEq7CB0lqPY0dTtHl2uLbd3qf14RkMwbbP9AAAAph+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIihISQUCpayw0vMIkxTqy7YDs4FS/ia/wBi0hUbLHa2WZeb1gGDzV7g52m3lJoLA5uNHlhYt9fHSfs+IINU2CnUeokudWnGSVHDXOKEhYCVpoax8GSibAWnXqoyiky1Tn6/B0FlLa9wxMKkc1R+fiFycPmNraB6ef5K4BpGCKUh32u7e4DzVAizL4AAAA=[0m[Pipeline] }
+[8mha:////4EI5HL7DzbSC+KA/q3rpS8T0CzxpPrEiCj6xiQhasFLEAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiaEBCqWgtN7zAJMY4se6C7eBUvIiv8QcsIlGxxWpnm3m9YRk81OwNdpp6S6GxOLjR5IWJfX91nLDjCzZMgZ1GqZPkVp9mlBw1zClKWAhYaWocB0smwlp06qEqp8hU5+jzdxRQ2vYOTyhENkfl4xcmD5vb2Aamn+evAKZhiFAe9rm2uw/+s3lwvgAAAA==[0m[Pipeline] // withEnv
+[8mha:////4JoC2zFwfmFpRS3Lsw7b8dRsJjlQJ7zn6v/Jdp6QLw/jAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPMJRukiIitZKwwtMbIwT686xLyQVL+Jr/AGLSFRssdrZZl5v2KYIJ4pW9AYHh6lzIvjJ5iVmisPN0yx6uoqOMJE3ojVzS9qcV2yJDawpSthI2BnsPCWHlmEve/VQlVdoqwvH/B0llE6P8IRCZjOryF9YIhzuk06EP89fASwhMJRNk6uuP5FQJhi+AAAA[0m[Pipeline] }
+[8mha:////4Pc32RO+ZH6mGy5UigTTCHjsLIAtyWHgf6qJkKziTGp5AAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOICHQilorXc8AKTGOPEugu2g1PxIr7GH7CIRMUWq51t5vWGZfBQszfYaeothcbi4EaTFyb2/dVxwo4v2DAFdhqlTpJbfZpRctQwpyhhIWClqXEcLJkIa9Gph6qcIlOdo8/fUUBp2zs8oRDZHJWPX5g8bG5jG5h+nr8CmIYhQrk/5NptP6KzfaS+AAAA[0m[Pipeline] // withEnv
+[8mha:////4AGAl3Vo5aGnn2ePFScwSmALjmLsM9OrJixLyzCvN52nAAAAox+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMKhoEGIitZKwwtMYowT6y7YF5KKF/E1/kBEJCq22plmXm8sU8SRo1ONpdZTqrzqQu+mpwaO7TXwoBq+qIopcbCqtEPJtT3NWLJYzMtyLDRWlqrAyZMTrHVjHqYIhlxxlji5g0bu6zueyPRUFhPlC2PE5tbXienX+RvA2HWCfL8VZLsP6KkWPr0AAAA=[0m[Pipeline] }
+[8mha:////4Gv98BfwMyLLFu5pRxWmZjid85JuvbOkUDMvgM80AqlAAAAAox+LCAAAAAAAAP9tjTEOwjAQBDdBFLSUPMIRokKIitZKwwtMYowT6y7YF5KKF/E1/kBEJCq22plmXm8sU8SRo1ONpdZTqrzqQu+mpwaO7TXwoBq+qIopcbCqtEPJtT3NWLJYzMtyLDRWlqrAyZMTrHVjHqYIhlxxlji5g0bu6zueyPRUFhPlC2PE5tbXienX+RvA2HWCfL8VZLsP+xUSnb0AAAA=[0m[Pipeline] // node
+[8mha:////4C1RRfUl74e7U5frNKIfTsypE0FCrbTiPBBsnUZEmdMTAAAAox+LCAAAAAAAAP9tjbEOgjAURS8YB1dHP6IkbMY4uTYsfkGFWgvNe9g+hMkv8tf8B4kkTt7pnrOc1xvrFHHk6FRrqfOUaq/6MLj5qZFjdw08qpYvqmZKHKyq7FhxY08LViwWy7IcK42NpTpw8uQEW92ahymCIVecJc7uoJH75o4nMj2XxUT5whSxuw1NYvp1/gYw9b0g35eCrPwAvV+1rb0AAAA=[0m[Pipeline] End of Pipeline
+ERROR: script returned exit code 1
+Finished: FAILURE
