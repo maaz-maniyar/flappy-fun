@@ -5,6 +5,7 @@ pipeline {
     APP_NAME = 'flappy-fun'
     APP_DIR = 'flappy-fun-main'
     IMAGE_REPO = 'docker.io/maazjazelle/flappy-fun'
+    TRIVY_EXE = 'C:\\Tools\\trivy\\trivy.exe'
     GITOPS_REPO_URL = 'https://github.com/maaz-maniyar/flappy-fun-gitops.git'
     GITOPS_BRANCH = 'main'
     GITOPS_MANIFEST_PATH = 'apps/flappy-fun/overlays/dev/kustomization.yaml'
@@ -101,7 +102,7 @@ pipeline {
 
     stage('Scan Image') {
       steps {
-        bat 'trivy image --exit-code 1 --severity HIGH,CRITICAL %IMAGE_REPO%:%IMAGE_TAG%'
+        bat '"%TRIVY_EXE%" image --exit-code 1 --severity HIGH,CRITICAL %IMAGE_REPO%:%IMAGE_TAG%'
       }
     }
 

@@ -1,0 +1,369 @@
+Started by user [8mha:////4OxLgxWB+9RAuG7cJxamR8ZWpmEvkECRJkjVxd3PcFNuAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0madmin
+Obtained flappy-fun-main/Jenkinsfile from git https://github.com/maaz-maniyar/flappy-fun.git
+[8mha:////4BkXM6sdi+a6FHapPyWmpvjX+ZUCQR1f4VZ6xmCO1ODzAAAAoh+LCAAAAAAAAP9tjTEOwjAQBM8BClpKHuFItIiK1krDC0x8GCfWnbEdkooX8TX+gCESFVvtrLSa5wtWKcKBo5UdUu8otU4GP9jS5Mixv3geZcdn2TIl9igbHBs2eJyx4YwwR1SwULBGaj0nRzbDRnX6rmuvydanHMu2V1A5c4MHCFXMWcf8hSnC9jqYxPTz/BXAFEIGsfuclm8zQVqFvQAAAA==[0m[Pipeline] Start of Pipeline
+[8mha:////4MM41miFSKV1QaWOEhLBglWVwoi2mna5sixiZ30ahxz6AAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycohUghExsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jduZBmjwAAAAA==[0m[Pipeline] node
+Running on [8mha:////4EjD1lJNPom7IZmj9qYJYp+0pzGp1CkkskqdwgFQrdJPAAAAoR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgZR/eT83ILSktQifY2k0sycEt3MPE19AHHxbH3KAAAA[0mJenkins in C:\Users\MAAZ\Downloads\flappy-fun-main\jenkins-home\workspace\flappy-fun
+[8mha:////4MG3oRoGKkOycVtn+KHQnm2CwANp7y5wbA9nyfs7pm7lAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gA0xsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jfoP95RwAAAAA==[0m[Pipeline] {
+[8mha:////4L3j/pWzf7H9/IKssScc7gZWsBVohuiMP8UB37TPfWFQAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0gQkxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jc09154wAAAAA==[0m[Pipeline] stage
+[8mha:////4FeCuSXV3pzsKWiE5hi/Zs53dsjc9Ib8btRcopxJ8iqYAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+KOrAycoh0ggUxsUZZOEFIQkgb/d8mKe3EibgadyBQiQlLlmxL1nu+oE4RjhQdby12HpP2vA+jK4lPFLtroIm3dOGaMFGwXNpJkrGnpUrKFhaxClYC1hZ1oOTRZdiIVt1VExS65pxj2Q4CKm8GeAAThZxVzN8yR9jeRpMIf5y/AJj7DGxXvP/86jek7ggRwAAAAA==[0m[Pipeline] { (Declarative: Checkout SCM)
+[8mha:////4B1V3Wb8/iISrwBa1HzSeA17gMn3Cr7H1MuAnCDNBX4yAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbaWGsbAmNJ0AWEZb8zwLrbuWJvJp3kLiJlZNMMm+a93rDOic4UbLcG+wdZu14DKOti0+U+lugiXu6ck2YKRguzSSpM+cFJRUDS1gDKwEbgzpQdmgLbIVXD9UGhba9lFS/o4DGdQM8gYlqLiqVL8wJdvexy4Q/z18BzLEA29ce4gfg7KmOvAAAAA==[0m[Pipeline] checkout
+The recommended git tool is: git.exe
+using credential gitops-creds
+Cloning the remote Git repository
+Cloning repository https://github.com/maaz-maniyar/flappy-fun.git
+ > git.exe init C:\Users\MAAZ\Downloads\flappy-fun-main\jenkins-home\workspace\flappy-fun # timeout=10
+Fetching upstream changes from https://github.com/maaz-maniyar/flappy-fun.git
+ > git.exe --version # timeout=10
+ > git --version # 'git version 2.45.1.windows.1'
+using GIT_ASKPASS to set credentials 
+ > git.exe fetch --tags --force --progress -- https://github.com/maaz-maniyar/flappy-fun.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git.exe config remote.origin.url https://github.com/maaz-maniyar/flappy-fun.git # timeout=10
+ > git.exe config --add remote.origin.fetch +refs/heads/*:refs/remotes/origin/* # timeout=10
+Avoid second fetch
+ > git.exe rev-parse "refs/remotes/origin/main^{commit}" # timeout=10
+Checking out Revision 80ed1377fc978d30ca0cbd8e9243e306b48c6c31 (refs/remotes/origin/main)
+ > git.exe config core.sparsecheckout # timeout=10
+ > git.exe checkout -f 80ed1377fc978d30ca0cbd8e9243e306b48c6c31 # timeout=10
+Commit message: "Fixed Lint issues"
+ > git.exe rev-list --no-walk f2fbbbf5a94f70ada03edccd5afb1597f793d353 # timeout=10
+[8mha:////4BZe8sap2T0i71I8qsbeiXsdFXiInU7NsgwWwT1UsTAKAAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQTbGRNjZUtoPAGyiLDkfxZYdytP5NW8g8RNrJxkknnTvNcb1jnBiZLl3mDvMGvHYxhtXXyi1N8CTdzTlWvCTMFwaSZJnTkvKKkYWMIaWAnYGNSBskNbYCu8eqg2KLTtpaT6HQU0rhvgCUxUc1GpfGFOsLuPXSb8ef4KYI6xADvU7j9Dg2gqvAAAAA==[0m[Pipeline] }
+[8mha:////4J0NdagzTk9R4FS03EL5AT/L9YiA8FNJK9rBpXjIfTf6AAAAoh+LCAAAAAAAAP9tjTEOAiEURD9rLGwtPQRbWRhjZUtoPAGyiLDkfxZYdytP5NW8g8RNrJxkknnTvNcb1jnBiZLl3mDvMGvHYxhtXXyi1N8CTdzTlWvCTMFwaSZJnTkvKKkYWMIaWAnYGNSBskNbYCu8eqg2KLTtpaT6HQU0rhvgCUxUc1GpfGFOsLuPXSb8ef4KYI6xADvU7j9J+wGOvAAAAA==[0m[Pipeline] // stage
+[8mha:////4EZrHYh8BRIXJG2GwdNVH2WLB2KvJPo/IiA9CWNBPajQAAAAph+LCAAAAAAAAP9tjTEOwjAQBM9BKWgpeYQDEh2iorXc8AITG+PEugv2haTiRXyNPxCIRMVWOyut5vmCMic4UPKycdgGzHWQXez91ORAqb1EGmRDZ1kTZopOajdosu44oyZ2MEcUsFCwdFhHygE9w0o15m6qaNBXJ07TtldQBHuDBwg1mdkk/sKYYH3tbSb8ef4KYOwYxI6h2G4+x/INtuQqUcEAAAA=[0m[Pipeline] withEnv
+[8mha:////4ANkCgxUqQ76/jUz2yR9OlN3og5BTfEyg2IyEAfVbirCAAAApR+LCAAAAAAAAP9tjTEOwjAUQ3+DOrAycoiUzoiJNerCCUITQtLo/zZJSSdOxNW4Ay2VmPBg2Zas93pDGQOcKBjuNHYWY2t570czJ54pdDdPmTu68pYwkte80bkhpc9rbShpWFUw2AjYamw9RYsmwU44+ZCVl2iqSwrzdhTArBrgCYWYyUmG9C1TgP19VJHwx/kLgKlPwOrDYvXyLD8BobDcwgAAAA==[0m[Pipeline] {
+[8mha:////4P78dDZLUaJtUL6+Z9pcaXZWcY9z9hjgJoIUi46JI8YVAAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUZUVMrFEWThCaEJJG/7dJSjpxIq7GHWipxIQHy7ZkvdcbqhjgRMEwp7GzGFvLej+aObFMobt5yszRlbWEkbxmQmdBSp/XKihpWFWUsOGw1dh6ihZNgh138iFrL9HUlxTm7cihtGqAJxR8JicZ0rdMAfb3UUXCH+cvAKY+Qdk0ix2WZ/UBbwyqm8IAAAA=[0m[Pipeline] withEnv
+[8mha:////4OXTrmnJiYJ4chWffZ4DhPoWiq2ZFr7o7EzsC+3wKSbLAAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUwIiYukZZOEFoQkgb/V9+UtqJE3E17kBLJSY8WLYl673eUESGE7ETjcXWY6y96ELvpiQG4vYaaBANXURNGClYoeygyNhqqYqShUVZDisJa4t1oOjRJdjIRj90GTS68px42o4Scm/u8IRMTuSkOX3LyLC99SYS/jh/ATB2CfLdfrbD/Cw+y7kUycIAAAA=[0m[Pipeline] {
+[8mha:////4B0huvRi5wUZ/yRNJPrdJzSpttsP8OllIePRSBvMvnsJAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUCDbE1DXKwglCE0La6P/yk9JOnIircQdaKjHhwbItWe/1hiIynIidaCy2HmPtRRd6NyUxELfXQINo6CJqwkjBCmUHRcZWS1WULCzKclhJWFusA0WPLsFGNvqhy6DRlefE03aUkHtzhydkciInzelbRobtrTeR8Mf5C4CxS5Dv9rMd5mfxAbNWnxXCAAAA[0m[Pipeline] timestamps
+[8mha:////4FEZu/3amzJuI3HfkX/m2sllYjNUOPO3w2Qfnjai0xJxAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUSDAhpq5RFk4QmhDSRv+Xn5R24kRcjTvQUokJD5ZtyXqvNxSR4UTsRGOx9RhrL7rQuymJgbi9BhpEQxdRE0YKVig7KDK2WqqiZGFRlsNKwtpiHSh6dAk2stEPXQaNrjwnnrajhNybOzwhkxM5aU7fMjJsb72JhD/OXwCMXYJ8t5/tMD+LD5WQ+PfCAAAA[0m[Pipeline] {
+[8mha:////4BzOr90KCGZwTb9bl5WJHIec/WOReOP1sQjSB9XMqAsYAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUDLAgpq5RFk4QmhDSRv+Xn5R24kRcjTvQUokJD5ZtyXqvNxSR4UTsRGOx9RhrL7rQuymJgbi9BhpEQxdRE0YKVig7KDK2WqqiZGFRlsNKwtpiHSh6dAk2stEPXQaNrjwnnrajhNybOzwhkxM5aU7fMjJsb72JhD/OXwCMXYJ8t5/tMD+LD/s94rDCAAAA[0m[Pipeline] stage
+[8mha:////4EL8RVE4tK6Z9QtW3pZgzLs8+oiEwVtIF2JlggdhDsqKAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohULDAgpq5RFk4QmhDSRv+Xn5R24kRcjTvQUokJD5ZtyXqvNxSR4UTsRGOx9RhrL7rQuymJgbi9BhpEQxdRE0YKVig7KDK2WqqiZGFRlsNKwtpiHSh6dAk2stEPXQaNrjwnnrajhNybOzwhkxM5aU7fMjJsb72JhD/OXwCMXYJ8t5/tMD+LD1+IXOLCAAAA[0m[Pipeline] { (Checkout)
+[8mha:////4OHLq76g07grk4VEmls0p5ryZaeided6VDd3kLFk2Zg2AAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiKpAQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGPIUG53n9qHNxXfVKy+AAAA[0m[Pipeline] checkout
+[2026-04-27T03:47:32.930Z] The recommended git tool is: git.exe
+[2026-04-27T03:47:32.930Z] using credential gitops-creds
+[2026-04-27T03:47:32.939Z]  > git.exe rev-parse --resolve-git-dir C:\Users\MAAZ\Downloads\flappy-fun-main\jenkins-home\workspace\flappy-fun\.git # timeout=10
+[2026-04-27T03:47:33.023Z] Fetching changes from the remote Git repository
+[2026-04-27T03:47:33.032Z]  > git.exe config remote.origin.url https://github.com/maaz-maniyar/flappy-fun.git # timeout=10
+[2026-04-27T03:47:33.138Z] Fetching upstream changes from https://github.com/maaz-maniyar/flappy-fun.git
+[2026-04-27T03:47:33.140Z]  > git.exe --version # timeout=10
+[2026-04-27T03:47:33.239Z]  > git --version # 'git version 2.45.1.windows.1'
+[2026-04-27T03:47:33.239Z] using GIT_ASKPASS to set credentials 
+[2026-04-27T03:47:33.243Z]  > git.exe fetch --tags --force --progress -- https://github.com/maaz-maniyar/flappy-fun.git +refs/heads/*:refs/remotes/origin/* # timeout=10
+[2026-04-27T03:47:34.630Z]  > git.exe rev-parse "refs/remotes/origin/main^{commit}" # timeout=10
+[2026-04-27T03:47:34.709Z] Checking out Revision 80ed1377fc978d30ca0cbd8e9243e306b48c6c31 (refs/remotes/origin/main)
+[2026-04-27T03:47:34.709Z]  > git.exe config core.sparsecheckout # timeout=10
+[2026-04-27T03:47:34.816Z]  > git.exe checkout -f 80ed1377fc978d30ca0cbd8e9243e306b48c6c31 # timeout=10
+[2026-04-27T03:47:35.198Z] Commit message: "Fixed Lint issues"
+[8mha:////4I5FJRxnEXmGBoeDzVWVHUPJUwHLxvonOjRAr2rX2LzmAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiKoQQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGMIGcrt/lO7N9Jjga++AAAA[0m[Pipeline] }
+[8mha:////4NYhoqRch0ALuL52u2Sntab60yqycSsb8N7g6AN/cYy5AAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOICFDQoFa3lhheYxBgn1l2wHZyKF/E1/oBFJCq2WO1sM683LIOHmr3BTlNvKTQWBzeavDCx76+OE3Z8wYYpsNModZLc6tOMkqOGOUUJCwErTY3jYMlEWItOPVTlFJnqHH3+jgJK297hCYXI5qh8/MLkYXMb28D08/wVwDQMEcr9Ntfu8AERGGHOvgAAAA==[0m[Pipeline] // stage
+[8mha:////4K2/+XAB+MHeFfDNoiguKT2Bnur+tmo4mKzzz1ILTnbyAAAAqB+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohURWJCTF2jLpwgNCEkjf4vSUo6cSKuxh0IVGLCg2Vbst7zBVXwcCSvmVU4GAy9YaObdE4skR8ujhKzdGY9YSCnWKdSR1K1S+0oKlhUlLDisFbYOwoGdYQNt+IuaidQ16fo83bgUBp5gwcUPJOj8PFbZg/b6yQD4Y/zFwDzGKFs9tl2zedZvQHeFw+cwgAAAA==[0m[Pipeline] stage
+[8mha:////4GPr9NZOWzVXqsatX6l7a4PY4GeKvbRb6FEeHO6DwtI2AAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+DOrAycohUdEVMrFEXThCaEJJG/7dJSjpxIq7GHWipxIQHy7ZkvdcbyhjgRMFwp7GzGFvLez+aOfFMobt5ytzRlbeEkbzmjc4NKX1ea0NJw6qCwUbAVmPrKVo0CXbCyYesvERTXVKYt6MAZtUATyjETE4ypG+ZAuzvo4qEP85fAEx9AlYfFquXZ/kBAsTc3cIAAAA=[0m[Pipeline] { (Prepare Metadata)
+[8mha:////4PbrL7LnjeFCpB4B9SxaQGGSDfy/Qj68SscjYJ+ueDLrAAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUKiNiYo2ycILQhJA0+r9NUtKJE3E17kBLJSY8WLYl673eUMUAJwqGOY2dxdha1vvRzIllCt3NU2aOrqwljOQ1EzoLUvq8VkFJw6qihA2HrcbWU7RoEuy4kw9Ze4mmvqQwb0cOpVUDPKHgMznJkL5lCrC/jyoS/jh/ATD1CcqmWeywPKsPpnFij8IAAAA=[0m[Pipeline] script
+[8mha:////4EN8rARvGgxKGPtTLnpqJt3xgs5vsp5Nr4e2wbVWINBwAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUAjbE1DXKwglCE0La6P/yk9JOnIircQdaKjHhwbItWe/1hiIynIidaCy2HmPtRRd6NyUxELfXQINo6CJqwkjBCmUHRcZWS1WULCzKclhJWFusA0WPLsFGNvqhy6DRlefE03aUkHtzhydkciInzelbRobtrTeR8Mf5C4CxS5Dv9rMd5mfxAd6e6VPCAAAA[0m[Pipeline] {
+[8mha:////4KTF0D/+ANE5/GjK1hn2s95afALgzbef+AXd8tqXDzJwAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiIagQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGMIGcrt/lO7N027j1u+AAAA[0m[Pipeline] }
+[8mha:////4BU4orJZa09zdR9dmYzP8DrRtyNKCV6epucsVc5K853kAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIigUSDqNJabniBiY1xYt0Z2yGpeBFf4w8EIlGxxWpnm3m+YJkiHDlabA11jlLjMPjeTgsHjt3F84Atn7FhSuwNSjNI1qaeUXI2MKcoYSFgZajxnBzZDGvRqruqvCJbnXKcvoOA0ukbPKAQkzmrmL8wRthce52Yfp6/AhhDyFBu95/avQFAXH9DvgAAAA==[0m[Pipeline] // script
+[8mha:////4A2ntKYEpleYVZSzFS/EjvWwGfvF9J2Zt8G2Vuaqr+zGAAAApB+LCAAAAAAAAP9tjTESwiAURH/iWNhaeggyk8bCsbJlaDwBJogQ5n8CRFJ5Iq/mHUQzY+UWO/u2ec8XrGOAIwXNrMLBYOwM827SZbFMYbg6yszShXWEkZxiQmVBvTotKCgpWFLVsOKwUdg5igZ1gi238i4bJ1E35xTKd+BQm36EB1S8mJMM6QtzgN1t6iPhz/NXALP3Cep2/6n2DXO/JP++AAAA[0m[Pipeline] }
+[8mha:////4ERhvsBuUUt3LpwsItaAG0h6qwa06GQzcUrQXcePP6F8AAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiqJAQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGMIGcrd/lPbNxxce5e+AAAA[0m[Pipeline] // stage
+[8mha:////4Gd3hFK+bq30wwknD+kc0y2JHm1kIAKm6qhmToFBAcOiAAAAqB+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUIDEg1Ik16sIJQhNC0uj/kqSkEyfiatyBQCUmPFi2Jes9X1AFDw15zazC3mDoDBvcqHNiiXx/cZSYpTPrCAM5xVqVWpLqONeWooJZRQkLDkuFnaNgUEdYcSvuonYCdX2KPm8HDqWRN3hAwTM5Ch+/ZfKwvo4yEP44fwEwDRHKzS7bdv95Vm+zlVxwwgAAAA==[0m[Pipeline] stage
+[8mha:////4NbI1xXa4WYEURkMtXKWRJnivStOiUsmJEllHDO3IE/4AAAAqB+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycogUwYRQJ9aoCycITQhJo/9LkpJOnIircQcClZjwYNmWrPd8QRU8NOQ1swp7g6EzbHCjzokl8v3FUWKWzqwjDOQUa1VqSarjXFuKCmYVJSw4LBV2joJBHWHFrbiL2gnU9Sn6vB04lEbe4AEFz+QofPyWycP6OspA+OP8BcA0RCi3+2y7zedZvQH4j6CMwgAAAA==[0m[Pipeline] { (Install)
+[8mha:////4GN2SYG3tF8eLg18T8s4uxkzvCt9qA199PN06LfTiPqzAAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycogUxIiYukZZOEFoQkgb/V9+UtqJE3E17kBLJSY8WLYl673eUESGE7ETjcXWY6y96ELvpiQG4vYaaBANXURNGClYoeygyNhqqYqShUVZDisJa4t1oOjRJdjIRj90GTS68px42o4Scm/u8IRMTuSkOX3LyLC99SYS/jh/ATB2CfLDbrb9/Cw+ty4Up8IAAAA=[0m[Pipeline] dir
+[2026-04-27T03:47:35.652Z] Running in C:\Users\MAAZ\Downloads\flappy-fun-main\jenkins-home\workspace\flappy-fun\flappy-fun-main
+[8mha:////4PlFADGbRnX0618Mkzx7WkjsKBni1h6wbzACtaPFKdkSAAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUwIiYukZZOEFoQkgb/V9+UtqJE3E17kBLJSY8WLYl673eUESGE7ETjcXWY6y96ELvpiQG4vYaaBANXURNGClYoeygyNhqqYqShUVZDisJa4t1oOjRJdjIRj90GTS68px42o4Scm/u8IRMTuSkOX3LyLC99SYS/jh/ATB2CfLDbrb9/Cw+2YMO4MIAAAA=[0m[Pipeline] {
+[8mha:////4Elowft6VqK0gs3RPNqH8tfrK3EfD1fQacC9T7K6drsdAAAAox+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIikRJR0VppeIFJjLFj3Tm2g1PxIr7GHwhEomKL1c4283zBOgY4ctBoFfWGYmvQu1HPCzOH/uo4o+ULtkyRncJG5YY7dVqw4aRgSVHCSsBGUes4GtIJtsLKu6ycJF2dU5i/g4DSdAM8oBCzOcmQvjAF2N3GLjL9PH8FMPkEZb3/VO3favo5XL4AAAA=[0m[Pipeline] bat
+[2026-04-27T03:47:36.661Z] 
+[2026-04-27T03:47:36.661Z] C:\Users\MAAZ\Downloads\flappy-fun-main\jenkins-home\workspace\flappy-fun\flappy-fun-main>npm.cmd ci 
+[2026-04-27T03:47:44.787Z] npm warn deprecated whatwg-encoding@2.0.0: Use @exodus/bytes instead for a more spec-conformant and faster implementation
+[2026-04-27T03:47:44.787Z] npm warn deprecated abab@2.0.6: Use your platform's native atob() and btoa() methods instead
+[2026-04-27T03:47:44.787Z] npm warn deprecated domexception@4.0.0: Use your platform's native DOMException instead
+[2026-04-27T03:48:06.730Z] 
+[2026-04-27T03:48:06.730Z] added 494 packages, and audited 495 packages in 28s
+[2026-04-27T03:48:06.730Z] 
+[2026-04-27T03:48:06.730Z] 98 packages are looking for funding
+[2026-04-27T03:48:06.730Z]   run `npm fund` for details
+[2026-04-27T03:48:06.730Z] 
+[2026-04-27T03:48:06.730Z] 19 vulnerabilities (3 low, 7 moderate, 9 high)
+[2026-04-27T03:48:06.730Z] 
+[2026-04-27T03:48:06.730Z] To address issues that do not require attention, run:
+[2026-04-27T03:48:06.730Z]   npm audit fix
+[2026-04-27T03:48:06.730Z] 
+[2026-04-27T03:48:06.730Z] To address all issues (including breaking changes), run:
+[2026-04-27T03:48:06.730Z]   npm audit fix --force
+[2026-04-27T03:48:06.730Z] 
+[2026-04-27T03:48:06.730Z] Run `npm audit` for details.
+[8mha:////4D0tc1ECQxANAWBJHIP+SgVCHVZap+ridOIXVNS3rKGsAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiAR2iSmu54QUmNsaJdWdsh6TiRXyNPxCIRMUWq51t5vmCZYpw5GixNdQ5So3D4Hs7LRw4dhfPA7Z8xoYpsTcozSBZm3pGydnAnKKEhYCVocZzcmQzrEWr7qryimx1ynH6DgJKp2/wgEJM5qxi/sIYYXPtdWL6ef4KYAwhQ7nbf2r7Bij33Ma+AAAA[0m[Pipeline] }
+[8mha:////4HJJMybDhzpbivCuEtkU8oJ6GnN0RkJjAW4jDlrGvwZcAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIihKgQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGMIGcrd/lPbNzd1iZS+AAAA[0m[Pipeline] // dir
+[8mha:////4DuJ52dZsz6ftoUs/uUqT/z2yZmhdlmI8jMK110M34QlAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOKChESDqNJabniBiY1xYt0Z2yGpeBFf4w8EIlGxxWpnm3m+YJkiHDlabA11jlLjMPjeTgsHjt3F84Atn7FhSuwNSjNI1qaeUXI2MKcoYSFgZajxnBzZDGvRqruqvCJbnXKcvoOA0ukbPKAQkzmrmL8wRthce52Yfp6/AhhDyFDu9p/avgEPNxplvgAAAA==[0m[Pipeline] }
+[8mha:////4CI5Hf2y3+3mS643qqFjI237skfddlyUvakRyyhOkDpiAAAAph+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiQYEQSkVrueEFJjHGiXUXbAen4kV8jT9gEYmKLVY728zrDcvgoWZvsNPUWwqNxcGNJi9M7Pur44QdX7BhCuw0Sp0kt/o0o+SoYU5RwkLASlPjOFgyEdaiUw9VOUWmOkefv6OA0rZ3eEIhsjkqH78wedjcxjYw/Tx/BTANQ4Ryt8+1PXwAT22Bzr4AAAA=[0m[Pipeline] // stage
+[8mha:////4PUMfIjZeBM7C2trHERwyFZeguVQ7Uz0L6nGaVH6m/grAAAAqB+LCAAAAAAAAP9tjUEKwjAURH8rXbh16SFSRARBunIbuvEEsYkxafi/JqnpyhN5Ne9gtODKWQwzA8N7vqAKHhrymlmFvcHQGTa4UefEEvn+4igxS2fWEQZyirUqtSTVca4tRQWzihIWHJYKO0fBoI6w4lbcRe0E6voUfd4OHEojb/CAgmdyFD5+y+RhfR1lIPxx/gJgGiKUm1227f7zrN6iTXcdwgAAAA==[0m[Pipeline] stage
+[8mha:////4HllGLMBb8jev6oz87dVBAFhTRo4mTsCyjAlmMZjHl1kAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycoh0YAEhpq5RFk4QmhDSRv+Xn5R24kRcjTvQUokJD5ZtyXqvNxSR4UTsRGOx9RhrL7rQuymJgbi9BhpEQxdRE0YKVig7KDK2WqqiZGFRlsNKwtpiHSh6dAk2stEPXQaNrjwnnrajhNybOzwhkxM5aU7fMjJsb72JhD/OXwCMXYJ8t5/tMD+LD59NhPHCAAAA[0m[Pipeline] { (Lint)
+[8mha:////4KfnvaKhd34+iZaNswNMeK4FMZ72T0PEBRo5PNcq2KJpAAAAqB+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycogUCRaEOrFGXThBaEJIGv1fkpR04kRcjTsQqMSEB8u2ZL3nC6rgoSGvmVXYGwydYYMbdU4ske8vjhKzdGYdYSCnWKtSS1Id59pSVDCrKGHBYamwcxQM6ggrbsVd1E6grk/R5+3AoTTyBg8oeCZH4eO3TB7W11EGwh/nLwCmIUK53WfbbT7P6g0Z/aLSwgAAAA==[0m[Pipeline] dir
+[2026-04-27T03:48:06.947Z] Running in C:\Users\MAAZ\Downloads\flappy-fun-main\jenkins-home\workspace\flappy-fun\flappy-fun-main
+[8mha:////4D0gPUjLXmRhutd7vRWBAH22AxX9+1yJGbYslR2IX+IpAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycogUJDbE1DXKwglCE0La6P/yk9JOnIircQdaKjHhwbItWe/1hiIynIidaCy2HmPtRRd6NyUxELfXQINo6CJqwkjBCmUHRcZWS1WULCzKclhJWFusA0WPLsFGNvqhy6DRlefE03aUkHtzhydkciInzelbRobtrTeR8Mf5C4CxS5AfdrPt52fxAbb5KxbCAAAA[0m[Pipeline] {
+[8mha:////4NnfcbUy9Y1+/RLZh7BPLOD/oWh7+3p9HuqghRgLEfV8AAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiEB2iSmu54QUmNsaJdWdsh6TiRXyNPxCIRMUWq51t5vmCZYpw5GixNdQ5So3D4Hs7LRw4dhfPA7Z8xoYpsTcozSBZm3pGydnAnKKEhYCVocZzcmQzrEWr7qryimx1ynH6DgJKp2/wgEJM5qxi/sIYYXPtdWL6ef4KYAwZyv32U7vwBirOQHu+AAAA[0m[Pipeline] bat
+[2026-04-27T03:48:09.582Z] 
+[2026-04-27T03:48:09.582Z] C:\Users\MAAZ\Downloads\flappy-fun-main\jenkins-home\workspace\flappy-fun\flappy-fun-main>npm.cmd run lint 
+[2026-04-27T03:48:09.844Z] 
+[2026-04-27T03:48:09.844Z] > vite_react_shadcn_ts@0.0.0 lint
+[2026-04-27T03:48:09.844Z] > eslint .
+[2026-04-27T03:48:09.844Z] 
+[2026-04-27T03:49:06.074Z] 
+[2026-04-27T03:49:06.074Z] C:\Users\MAAZ\Downloads\flappy-fun-main\jenkins-home\workspace\flappy-fun\flappy-fun-main\src\components\ui\badge.tsx
+[2026-04-27T03:49:06.074Z]   29:17  warning  Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components  react-refresh/only-export-components
+[2026-04-27T03:49:06.074Z] 
+[2026-04-27T03:49:06.074Z] C:\Users\MAAZ\Downloads\flappy-fun-main\jenkins-home\workspace\flappy-fun\flappy-fun-main\src\components\ui\button.tsx
+[2026-04-27T03:49:06.074Z]   47:18  warning  Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components  react-refresh/only-export-components
+[2026-04-27T03:49:06.074Z] 
+[2026-04-27T03:49:06.074Z] C:\Users\MAAZ\Downloads\flappy-fun-main\jenkins-home\workspace\flappy-fun\flappy-fun-main\src\components\ui\form.tsx
+[2026-04-27T03:49:06.074Z]   129:10  warning  Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components  react-refresh/only-export-components
+[2026-04-27T03:49:06.074Z] 
+[2026-04-27T03:49:06.074Z] C:\Users\MAAZ\Downloads\flappy-fun-main\jenkins-home\workspace\flappy-fun\flappy-fun-main\src\components\ui\navigation-menu.tsx
+[2026-04-27T03:49:06.074Z]   111:3  warning  Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components  react-refresh/only-export-components
+[2026-04-27T03:49:06.074Z] 
+[2026-04-27T03:49:06.074Z] C:\Users\MAAZ\Downloads\flappy-fun-main\jenkins-home\workspace\flappy-fun\flappy-fun-main\src\components\ui\sidebar.tsx
+[2026-04-27T03:49:06.074Z]   636:3  warning  Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components  react-refresh/only-export-components
+[2026-04-27T03:49:06.074Z] 
+[2026-04-27T03:49:06.074Z] C:\Users\MAAZ\Downloads\flappy-fun-main\jenkins-home\workspace\flappy-fun\flappy-fun-main\src\components\ui\sonner.tsx
+[2026-04-27T03:49:06.074Z]   27:19  warning  Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components  react-refresh/only-export-components
+[2026-04-27T03:49:06.074Z] 
+[2026-04-27T03:49:06.074Z] C:\Users\MAAZ\Downloads\flappy-fun-main\jenkins-home\workspace\flappy-fun\flappy-fun-main\src\components\ui\toggle.tsx
+[2026-04-27T03:49:06.074Z]   37:18  warning  Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components  react-refresh/only-export-components
+[2026-04-27T03:49:06.074Z] 
+[2026-04-27T03:49:06.074Z] ✖ 7 problems (0 errors, 7 warnings)
+[2026-04-27T03:49:06.074Z] 
+[8mha:////4CgVrYTyLfMn8hWaazlwh5x3DQdBX1RtdGc8qbe3KkYgAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiBB2iSmu54QUmNsaJdWdsh6TiRXyNPxCIRMUWq51t5vmCZYpw5GixNdQ5So3D4Hs7LRw4dhfPA7Z8xoYpsTcozSBZm3pGydnAnKKEhYCVocZzcmQzrEWr7qryimx1ynH6DgJKp2/wgEJM5qxi/sIYYXPtdWL6ef4KYAwhQ7nffWr7BmM+Nsi+AAAA[0m[Pipeline] }
+[8mha:////4Aglp7zNTUL0HnlLPIof7l31c2CoMcDcyb4yzofooIkiAAAAox+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOJCkQ5R0VppeIFJjLFj3Tm2g1PxIr7GHwhEomKL1c4283zBOgY4ctBoFfWGYmvQu1HPCzOH/uo4o+ULtkyRncJG5YY7dVqw4aRgSVHCSsBGUes4GtIJtsLKu6ycJF2dU5i/g4DSdAM8oBCzOcmQvjAF2N3GLjL9PH8FMHmfoKzrT+3fTT40or4AAAA=[0m[Pipeline] // dir
+[8mha:////4CKHiTNmtkkUfEOB5V8jfAtTA+qBf+75gUU5OU9XFK6wAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOJSAAVCqWgtN7zAJMY4se6C7eBUvIiv8QcsIlGxxWpnm3m9YRk81OwNdpp6S6GxOLjR5IWJfX91nLDjCzZMgZ1GqZPkVp9mlBw1zClKWAhYaWocB0smwlp06qEqp8hU5+jzdxRQ2vYOTyhENkfl4xcmD5vb2Aamn+evAKZhiFDu9rm2hw+Lw/VfvgAAAA==[0m[Pipeline] }
+[8mha:////4JgYRRJqyTNhJtTOfk9VnnTnVvSt3iWvicn3zDchGoE1AAAAph+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOJSgBASSkVrueEFJjHGiXUXbAen4kV8jT9gEYmKLVY728zrDcvgoWZvsNPUWwqNxcGNJi9M7Pur44QdX7BhCuw0Sp0kt/o0o+SoYU5RwkLASlPjOFgyEdaiUw9VOUWmOkefv6OA0rZ3eEIhsjkqH78wedjcxjYw/Tx/BTANQ4Ryt8+1PXwAs4Fmrr4AAAA=[0m[Pipeline] // stage
+[8mha:////4CJM5zFD80X9wuiuRrHJx31Ji5ZkCHNZKYkaYzZ40z+jAAAAqB+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUSCAG1Ik16sIJQhNC0uj/kqSkEyfiatyBQCUmPFi2Jes9X1AFDw15zazC3mDoDBvcqHNiiXx/cZSYpTPrCAM5xVqVWpLqONeWooJZRQkLDkuFnaNgUEdYcSvuonYCdX2KPm8HDqWRN3hAwTM5Ch+/ZfKwvo4yEP44fwEwDRHKzS7bdv95Vm/5wYYpwgAAAA==[0m[Pipeline] stage
+[8mha:////4GOSkPr8+A9pCFPRkzNEvV/DSJhlfd0CNgiHng/rcumxAAAAqB+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycoh0QQIJMXWNsnCC0ISQNvq//KS0EyfiatyBlkpMeLBsS9Z7vaGIDCdiJxqLrcdYe9GF3k1JDMTtNdAgGrqImjBSsELZQZGx1VIVJQuLshxWEtYW60DRo0uwkY1+6DJodOU58bQdJeTe3OEJmZzISXP6lpFhe+tNJPxx/gJg7BLku/1sh/lZfAD9vR8YwgAAAA==[0m[Pipeline] { (Test)
+[8mha:////4LaCuqwQGnWNxUmwv+MC3VRQ7D1dgDmvQ+rFn5E9uLxiAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycoh0YQAhpq5RFk4QmhDSRv+Xn5R24kRcjTvQUokJD5ZtyXqvNxSR4UTsRGOx9RhrL7rQuymJgbi9BhpEQxdRE0YKVig7KDK2WqqiZGFRlsNKwtpiHSh6dAk2stEPXQaNrjwnnrajhNybOzwhkxM5aU7fMjJsb72JhD/OXwCMXYJ8t5/tMD+LD56au0DCAAAA[0m[Pipeline] dir
+[2026-04-27T03:49:06.425Z] Running in C:\Users\MAAZ\Downloads\flappy-fun-main\jenkins-home\workspace\flappy-fun\flappy-fun-main
+[8mha:////4F2RxFvA7nHaJC5qx+T0e9i4Q115IwbX3B4DVLG5zfWnAAAAqB+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycoiUAQaEOrFGXThBaEJIGv1fkpR04kRcjTsQqMSEB8u2ZL3nC6rgoSGvmVXYGwydYYMbdU4ske8vjhKzdGYdYSCnWKtSS1Id59pSVDCrKGHBYamwcxQM6ggrbsVd1E6grk/R5+3AoTTyBg8oeCZH4eO3TB7W11EGwh/nLwCmIUK53WfbbT7P6g0iH00AwgAAAA==[0m[Pipeline] {
+[8mha:////4GpeKAFOTSjexXyfBm1uszPS3oTrzkQ4a0NBIdVw8dTvAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOICBRWiSmu54QUmNsaJdWdsh6TiRXyNPxCIRMUWq51t5vmCZYpw5GixNdQ5So3D4Hs7LRw4dhfPA7Z8xoYpsTcozSBZm3pGydnAnKKEhYCVocZzcmQzrEWr7qryimx1ynH6DgJKp2/wgEJM5qxi/sIYYXPtdWL6ef4KYAwZyv32U7vwBvT8cju+AAAA[0m[Pipeline] bat
+[2026-04-27T03:49:07.902Z] 
+[2026-04-27T03:49:07.902Z] C:\Users\MAAZ\Downloads\flappy-fun-main\jenkins-home\workspace\flappy-fun\flappy-fun-main>npm.cmd test 
+[2026-04-27T03:49:08.851Z] 
+[2026-04-27T03:49:08.851Z] > vite_react_shadcn_ts@0.0.0 test
+[2026-04-27T03:49:08.851Z] > vitest run
+[2026-04-27T03:49:08.851Z] 
+[2026-04-27T03:49:16.977Z] 
+[2026-04-27T03:49:16.977Z] [1m[46m RUN [49m[22m [36mv3.2.4 [39m[90mC:/Users/MAAZ/Downloads/flappy-fun-main/jenkins-home/workspace/flappy-fun/flappy-fun-main[39m
+[2026-04-27T03:49:16.977Z] 
+[2026-04-27T03:50:38.397Z]  [32m✓[39m src/test/example.test.ts [2m([22m[2m1 test[22m[2m)[22m[32m 4[2mms[22m[39m
+[2026-04-27T03:50:38.398Z] 
+[2026-04-27T03:50:38.398Z] [2m Test Files [22m [1m[32m1 passed[39m[22m[90m (1)[39m
+[2026-04-27T03:50:38.398Z] [2m      Tests [22m [1m[32m1 passed[39m[22m[90m (1)[39m
+[2026-04-27T03:50:38.398Z] [2m   Start at [22m 09:19:16
+[2026-04-27T03:50:38.398Z] [2m   Duration [22m 81.64s[2m (transform 127ms, setup 7.81s, collect 65ms, tests 4ms, environment 42.05s, prepare 30.99s)[22m
+[2026-04-27T03:50:38.398Z] 
+[8mha:////4PdJS6IaJOFKjU/03g4DxJFqmvks/kPdFIP7F+fmhDoTAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOKCkKgQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGMIGcr97lPbN6XnAcu+AAAA[0m[Pipeline] }
+[8mha:////4BdqqcUe1vCpqXZm8zp09AV+jBuKVsMAYTc3F1KfkXk0AAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOJSAAVCqWgtN7zAJMY4se6C7eBUvIiv8QcsIlGxxWpnm3m9YRk81OwNdpp6S6GxOLjR5IWJfX91nLDjCzZMgZ1GqZPkVp9mlBw1zClKWAhYaWocB0smwlp06qEqp8hU5+jzdxRQ2vYOTyhENkfl4xcmD5vb2Aamn+evAKZhiFDut7l2hw/lvZpgvgAAAA==[0m[Pipeline] // dir
+[8mha:////4I+hh7N917axVCefYpPmztBuQ/MEdLxrzrHrWLLUmH8ZAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOLSBAkJUaW10vACExvjxLoztkNS8SK+xh+wiETFFqudbeb1hnUMcOJgsNc0WIqdRe9GkxdOHIar4wl7vmDHFNlpbPXUstLNgi0nDUuKElYCNpo6x9GSSbAVvXzIykky1TmF/B0FlFbd4QmFyOYkQ/rCHGB3G1Vk+nn+CmD2PkG5r3PVhw/LvZgKvgAAAA==[0m[Pipeline] }
+[8mha:////4BqYD70iFSEqcVMVYpo4pxVDGmQbTTgP6FxGMB/QT7cGAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPMJpiCgQVVorDS8w8WGcWHfGdkgqXsTX+AMWkajYYrWzzbzesI4BThyM6JEGS7GzwrvR5CUmDsPV8SR6voiOKbJD0eLUssZmwZYTwpKihJWEDVLnOFoyCbayVw9VOUWmOqeQv6OE0uo7PKGQ2ZxUSF+YA+xuo45MP89fAczeJyjrOtf+8AH/c3tRvgAAAA==[0m[Pipeline] // stage
+[8mha:////4AmuIbqDQx4Gr2sruRRXt+vE3lyc9oSsDb2FubY/z0cxAAAAqB+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUDGVBTF2jLJwgJCGkjf4vSUo7cSKuxh0IVGLCg2Vbst7zBVUMcKRgWWewdxiVY4MfbU5sotBfPE2sozNThJG8YcJMgrRplyooGVhUlLDisDaoPEWHNsGGd/Iuay/R1qcU8nbgUDp9gwcUPJOTDOlb5gDb66gj4Y/zFwDzkKDcNdma/edZvQHoGa1EwgAAAA==[0m[Pipeline] stage
+[8mha:////4F30ynCyZmXJaMCWDpPzJe6W86zKjrTS6E+yoSvjdW1RAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycoh0AgbE1DXKwglCE0La6P/yk9JOnIircQdaKjHhwbItWe/1hiIynIidaCy2HmPtRRd6NyUxELfXQINo6CJqwkjBCmUHRcZWS1WULCzKclhJWFusA0WPLsFGNvqhy6DRlefE03aUkHtzhydkciInzelbRobtrTeR8Mf5C4CxS5Dv9rMd5mfxATOXFRXCAAAA[0m[Pipeline] { (SonarQube Scan)
+Stage "SonarQube Scan" skipped due to when conditional
+[8mha:////4HLVqxC0TPbk++vRlMQlCddW8/2e9PXY3sodRQvr+vOaAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOJSIZAQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGPIUG53n9qHNzN5Fy++AAAA[0m[Pipeline] getContext
+[8mha:////4P8sVR4p5o9HwkhHPi57KV2kfbdDeMZz7c9mI1n2Nk5IAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOJSIYQQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGMIGcrt/lO7N8WCoj++AAAA[0m[Pipeline] }
+[8mha:////4IaIYeMOFaJtKO91OVINL+e9A4IiJJtUGYZed3SRSHaWAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOJCQxpEldZKwwtMbIwT687YDknFi/gaf8AiEhVbrHa2mdcb1jHAiYPBXtNgKXYWvRtNXjhxGK6OJ+z5gh1TZKex1VPLSjcLtpw0LClKWAnYaOocR0smwVb08iErJ8lU5xTydxRQWnWHJxQim5MM6QtzgN1tVJHp5/krgNn7BGW9z3WoPwb5Ql6+AAAA[0m[Pipeline] // stage
+[8mha:////4CTIaR3hKlSzcBS5awus7BJwOyYSjrMi5JZ/LxMzqFeRAAAAqB+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUHWBBTF2jLpwgNCEkjf4vSUo6cSKuxh0IVGLCg2Vbst7zBVXwcCSvmVU4GAy9YaObdE4skR8ujhKzdGY9YSCnWKdSR1K1S+0oKlhUlLDisFbYOwoGdYQNt+IuaidQ16fo83bgUBp5gwcUPJOj8PFbZg/b6yQD4Y/zFwDzGKFsdtn2zedZvQHNM0BowgAAAA==[0m[Pipeline] stage
+[8mha:////4KDWRe/F06D1mq4b/0PwAXHPbKcHa9owUu6RPJ6dae1kAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUMLAgpq5RFk4QmhDSRv+Xn5R24kRcjTvQUokJD5ZtyXqvNxSR4UTsRGOx9RhrL7rQuymJgbi9BhpEQxdRE0YKVig7KDK2WqqiZGFRlsNKwtpiHSh6dAk2stEPXQaNrjwnnrajhNybOzwhkxM5aU7fMjJsb72JhD/OXwCMXYL8sJttPz+LD27blSrCAAAA[0m[Pipeline] { (Quality Gate)
+Stage "Quality Gate" skipped due to when conditional
+[8mha:////4CxGzC7HPxhMmc7X/+fjkWi9RNS2dG+lmTMOgUzHn6VvAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIigUSDqNJabniBiY1xYt0Z2yGpeBFf4w8EIlGxxWpnm3m+YJkiHDlabA11jlLjMPjeTgsHjt3F84Atn7FhSuwNSjNI1qaeUXI2MKcoYSFgZajxnBzZDGvRqruqvCJbnXKcvoOA0ukbPKAQkzmrmL8wRthce52Yfp6/AhhDhnK//dQuvAHlNhISvgAAAA==[0m[Pipeline] getContext
+[8mha:////4PuicPECdiS30fvO6G7+oM5gfWv+NPZiwr6CnI++1YpMAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiIUSDqNJabniBiY1xYt0Z2yGpeBFf4w8EIlGxxWpnm3m+YJkiHDlabA11jlLjMPjeTgsHjt3F84Atn7FhSuwNSjNI1qaeUXI2MKcoYSFgZajxnBzZDGvRqruqvCJbnXKcvoOA0ukbPKAQkzmrmL8wRthce52Yfp6/AhhDyFDud5/avgHKLJPpvgAAAA==[0m[Pipeline] }
+[8mha:////4DfJ+TiflATSP/xIxxozOku8zJkoGyr7Fb99vhUkKPfXAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiCmgQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGMIGcr97lPbN9Wuxru+AAAA[0m[Pipeline] // stage
+[8mha:////4Oeg9YwwBE9gRLD3MNFT0124mpLRQMSuX3auTXS/ppUNAAAAqB+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUDHRBTF2jLJwgJCGkjf4vSUo7cSKuxh0IVGLCg2Vbst7zBVUMcKRgWWewdxiVY4MfbU5sotBfPE2sozNThJG8YcJMgrRplyooGVhUlLDisDaoPEWHNsGGd/Iuay/R1qcU8nbgUDp9gwcUPJOTDOlb5gDb66gj4Y/zFwDzkKDc7bM1zedZvQF1A0V1wgAAAA==[0m[Pipeline] stage
+[8mha:////4MC4RWDFNVmjXLB5vc+D6J+zREQeTaujCUuWcun5VIpWAAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycoh0KwNiYo2ycILQhJA0+r9NUtKJE3E17kBLJSY8WLYl673eUMUAJwqGOY2dxdha1vvRzIllCt3NU2aOrqwljOQ1EzoLUvq8VkFJw6qihA2HrcbWU7RoEuy4kw9Ze4mmvqQwb0cOpVUDPKHgMznJkL5lCrC/jyoS/jh/ATD1CcqmWeywPKsPXl9jU8IAAAA=[0m[Pipeline] { (Build App)
+[8mha:////4Adch5Vj0c6Y143j05/W9kjKbl/FcQe2OB+aq1FLuD+JAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycoh0AyTE1DXKwglCE0La6P/yk9JOnIircQdaKjHhwbItWe/1hiIynIidaCy2HmPtRRd6NyUxELfXQINo6CJqwkjBCmUHRcZWS1WULCzKclhJWFusA0WPLsFGNvqhy6DRlefE03aUkHtzhydkciInzelbRobtrTeR8Mf5C4CxS5Dv9rMd5mfxAUsyu2PCAAAA[0m[Pipeline] dir
+[2026-04-27T03:50:39.312Z] Running in C:\Users\MAAZ\Downloads\flappy-fun-main\jenkins-home\workspace\flappy-fun\flappy-fun-main
+[8mha:////4P1Ramd5OlTCziosWFZ6DDATOfN3gOQcdyAIHy0BLyYJAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycoh0QyDE1DXKwglCE0La6P/yk9JOnIircQdaKjHhwbItWe/1hiIynIidaCy2HmPtRRd6NyUxELfXQINo6CJqwkjBCmUHRcZWS1WULCzKclhJWFusA0WPLsFGNvqhy6DRlefE03aUkHtzhydkciInzelbRobtrTeR8Mf5C4CxS5Dv9rMd5mfxASgVHzvCAAAA[0m[Pipeline] {
+[8mha:////4NIztmgnLKy+S9+3CqQyApEH/5v8IE+SJvGlN62I8L5MAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOJCBUIoFa3lhheYxBgn1l2wHZyKF/E1/oBFJCq2WO1sM683LIOHmr3BTlNvKTQWBzeavDCx76+OE3Z8wYYpsNModZLc6tOMkqOGOUUJCwErTY3jYMlEWItOPVTlFJnqHH3+jgJK297hCYXI5qh8/MLkYXMb28D08/wVwDREKHeHXPvt8AHrW/o6vgAAAA==[0m[Pipeline] bat
+[2026-04-27T03:50:40.749Z] 
+[2026-04-27T03:50:40.749Z] C:\Users\MAAZ\Downloads\flappy-fun-main\jenkins-home\workspace\flappy-fun\flappy-fun-main>npm.cmd run build 
+[2026-04-27T03:50:41.328Z] 
+[2026-04-27T03:50:41.328Z] > vite_react_shadcn_ts@0.0.0 build
+[2026-04-27T03:50:41.328Z] > vite build
+[2026-04-27T03:50:41.328Z] 
+[2026-04-27T03:50:42.275Z] [36mvite v5.4.19 [32mbuilding for production...[36m[39m
+[2026-04-27T03:50:43.224Z] transforming...
+[2026-04-27T03:50:45.140Z] Browserslist: browsers data (caniuse-lite) is 10 months old. Please run:
+[2026-04-27T03:50:45.140Z]   npx update-browserslist-db@latest
+[2026-04-27T03:50:45.140Z]   Why you should do it regularly: https://github.com/browserslist/update-db#readme
+[2026-04-27T03:51:11.654Z] [32m✓[39m 1666 modules transformed.
+[2026-04-27T03:51:11.654Z] rendering chunks...
+[2026-04-27T03:51:11.654Z] computing gzip size...
+[2026-04-27T03:51:11.654Z] [2mdist/[22m[32mindex.html                 [39m[1m[2m  1.15 kB[22m[1m[22m[2m │ gzip:  0.49 kB[22m
+[2026-04-27T03:51:11.654Z] [2mdist/[22m[35massets/index-Cd6tRYBl.css  [39m[1m[2m 57.42 kB[22m[1m[22m[2m │ gzip: 10.17 kB[22m
+[2026-04-27T03:51:11.654Z] [2mdist/[22m[36massets/index-BD16ZMhy.js   [39m[1m[2m309.77 kB[22m[1m[22m[2m │ gzip: 99.72 kB[22m
+[2026-04-27T03:51:11.654Z] [32m✓ built in 25.39s[39m
+[8mha:////4Ilfvr0AvB0Q6dHsapr1F8dquYASd+fVi2HvRhdmQbRXAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiGhBCqWgtN7zAJMY4se6C7eBUvIiv8QcsIlGxxWpnm3m9YRk81OwNdpp6S6GxOLjR5IWJfX91nLDjCzZMgZ1GqZPkVp9mlBw1zClKWAhYaWocB0smwlp06qEqp8hU5+jzdxRQ2vYOTyhENkfl4xcmD5vb2Aamn+evAKZhiFDut7l2hw9Fb/uIvgAAAA==[0m[Pipeline] }
+[8mha:////4EDNo40xw2+jgFAch+4pMsDwrZAgJUeshDHb1xSMoqU7AAAAph+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiUQASSkVrueEFJjHGiXUXbAen4kV8jT9gEYmKLVY728zrDcvgoWZvsNPUWwqNxcGNJi9M7Pur44QdX7BhCuw0Sp0kt/o0o+SoYU5RwkLASlPjOFgyEdaiUw9VOUWmOkefv6OA0rZ3eEIhsjkqH78wedjcxjYw/Tx/BTANQ4Ryv821O3wAfS1oeb4AAAA=[0m[Pipeline] // dir
+[8mha:////4IYEAp5wSqqMcRfeKIUqH9TyROFbjB7imZ9kAS8RIT/2AAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOJSIJECUaW10vACExvjxLoztkNS8SK+xh+wiETFFqudbeb1hnUMcOJgsNc0WIqdRe9GkxdOHIar4wl7vmDHFNlpbPXUstLNgi0nDUuKElYCNpo6x9GSSbAVvXzIykky1TmF/B0FlFbd4QmFyOYkQ/rCHGB3G1Vk+nn+CmD2PkFZ73Md6g9J44sivgAAAA==[0m[Pipeline] }
+[8mha:////4NGoSnvmSpZs4F9zXkmWKnHyLf6/35kJLtSF2bcvd5yIAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPMJpUCgQVVorDS8w8WGcWHfGdkgqXsTX+AMWkajYYrWzzbzesI4BThyM6JEGS7GzwrvR5CUmDsPV8SR6voiOKbJD0eLUssZmwZYTwpKihJWEDVLnOFoyCbayVw9VOUWmOqeQv6OE0uo7PKGQ2ZxUSF+YA+xuo45MP89fAczeJygP+1x1/QFn44lIvgAAAA==[0m[Pipeline] // stage
+[8mha:////4BPvkQXBYRSxB3Y0LhG8eVofgFNtZR3dboBNpoasYBUXAAAAqB+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUDBUDYuoaZeEEIQkhbfR/SVLaiRNxNe5AoBITHizbkvWeL6higCMFyzqDvcOoHBv8aHNiE4X+4mliHZ2ZIozkDRNmEqRNu1RBycCiooQVh7VB5Sk6tAk2vJN3WXuJtj6lkLcDh9LpGzyg4JmcZEjfMgfYXkcdCX+cvwCYhwTlrsm2bz7P6g1veqZVwgAAAA==[0m[Pipeline] stage
+[8mha:////4NlbVJN0yGE5uDQTMWZvEVhCJF/Slh/tmR5hfXnnwbwkAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycoh0AgbE1DXKwglCE0La6P/yk9JOnIircQdaKjHhwbItWe/1hiIynIidaCy2HmPtRRd6NyUxELfXQINo6CJqwkjBCmUHRcZWS1WULCzKclhJWFusA0WPLsFGNvqhy6DRlefE03aUkHtzhydkciInzelbRobtrTeR8Mf5C4CxS5AfdrPt52fxASGtDzzCAAAA[0m[Pipeline] { (Build Image)
+[8mha:////4DxkzNRlJlzkrZOj8T6spSIYp3hb0R/55W3kqtTEs+LKAAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+DOrAycoh0owNiYo26cILQhJA0+r9NUtKJE3E17kBLJSY8WLYl673eUMYAJwqGO42dxdha3vvRzIlnCt3NU+aOrrwljOQ1b3RuSOnzWhtKGlYVDDYCthpbT9GiSbATTj5k5SWa6pLCvB0FMKsGeEIhZnKSIX3LFGB/H1Uk/HH+AmDqE7D6sFi9PMsPhRixbsIAAAA=[0m[Pipeline] dir
+[2026-04-27T03:51:11.869Z] Running in C:\Users\MAAZ\Downloads\flappy-fun-main\jenkins-home\workspace\flappy-fun\flappy-fun-main
+[8mha:////4KgDH02DG+/UQqbs+5g8i8XPnFK0m3LTxIlH+NW/q6NZAAAAph+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycoh0LBJiYo2ycILQhJA0+r9NUtKJE3E17kBLJSY8WLYl673eUMUAJwqGOY2dxdha1vvRzIllCt3NU2aOrqwljOQ1EzoLUvq8VkFJw6qihA2HrcbWU7RoEuy4kw9Ze4mmvqQwb0cOpVUDPKHgMznJkL5lCrC/jyoS/jh/ATD1CcqmWeywPKsPkHVpXsIAAAA=[0m[Pipeline] {
+[8mha:////4B94O7WDVyTlxTw35O5z0mAOTmnlmSHxW+LpWyRz4aOiAAAAox+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOJSAkJUaS03vMDExjix7oztkFS8iK/xBwKRqNhitbPNPF+wTBGOHC22hjpHqXEYfG+nhQPH7uJ5wJbP2DAl9galGSRrU88oORuYU5SwELAy1HhOjmyGtWjVXVVeka1OOU7fQUDp9A0eUIjJnFXMXxgjbK69Tkw/z18BjCFDud19ah/eiOvlgb4AAAA=[0m[Pipeline] bat
+[2026-04-27T03:51:12.887Z] 
+[2026-04-27T03:51:12.888Z] C:\Users\MAAZ\Downloads\flappy-fun-main\jenkins-home\workspace\flappy-fun\flappy-fun-main>docker build -t docker.io/maazjazelle/flappy-fun:8-80ed137 -t docker.io/maazjazelle/flappy-fun:latest . 
+[2026-04-27T03:51:14.279Z] #0 building with "desktop-linux" instance using docker driver
+[2026-04-27T03:51:14.279Z] 
+[2026-04-27T03:51:14.279Z] #1 [internal] load build definition from Dockerfile
+[2026-04-27T03:51:14.279Z] #1 transferring dockerfile: 343B 0.0s done
+[2026-04-27T03:51:14.279Z] #1 DONE 0.1s
+[2026-04-27T03:51:14.279Z] 
+[2026-04-27T03:51:14.279Z] #2 [internal] load metadata for docker.io/library/nginx:1.27-alpine
+[2026-04-27T03:51:15.672Z] #2 ...
+[2026-04-27T03:51:15.672Z] 
+[2026-04-27T03:51:15.672Z] #3 [auth] library/nginx:pull token for registry-1.docker.io
+[2026-04-27T03:51:15.672Z] #3 DONE 0.0s
+[2026-04-27T03:51:15.672Z] 
+[2026-04-27T03:51:15.672Z] #4 [auth] library/node:pull token for registry-1.docker.io
+[2026-04-27T03:51:15.672Z] #4 DONE 0.0s
+[2026-04-27T03:51:15.934Z] 
+[2026-04-27T03:51:15.934Z] #5 [internal] load metadata for docker.io/library/node:20-alpine
+[2026-04-27T03:51:16.508Z] #5 ...
+[2026-04-27T03:51:16.508Z] 
+[2026-04-27T03:51:16.508Z] #2 [internal] load metadata for docker.io/library/nginx:1.27-alpine
+[2026-04-27T03:51:16.508Z] #2 DONE 3.7s
+[2026-04-27T03:51:16.508Z] 
+[2026-04-27T03:51:16.508Z] #5 [internal] load metadata for docker.io/library/node:20-alpine
+[2026-04-27T03:51:16.508Z] #5 DONE 3.7s
+[2026-04-27T03:51:16.508Z] 
+[2026-04-27T03:51:16.508Z] #6 [internal] load .dockerignore
+[2026-04-27T03:51:16.508Z] #6 transferring context: 202B 0.0s done
+[2026-04-27T03:51:16.508Z] #6 DONE 0.1s
+[2026-04-27T03:51:16.770Z] 
+[2026-04-27T03:51:16.770Z] #7 [builder 1/6] FROM docker.io/library/node:20-alpine@sha256:fb4cd12c85ee03686f6af5362a0b0d56d50c58a04632e6c0fb8363f609372293
+[2026-04-27T03:51:16.770Z] #7 resolve docker.io/library/node:20-alpine@sha256:fb4cd12c85ee03686f6af5362a0b0d56d50c58a04632e6c0fb8363f609372293 0.1s done
+[2026-04-27T03:51:16.770Z] #7 DONE 0.1s
+[2026-04-27T03:51:16.770Z] 
+[2026-04-27T03:51:16.770Z] #8 [stage-1 1/3] FROM docker.io/library/nginx:1.27-alpine@sha256:65645c7bb6a0661892a8b03b89d0743208a18dd2f3f17a54ef4b76fb8e2f2a10
+[2026-04-27T03:51:16.770Z] #8 resolve docker.io/library/nginx:1.27-alpine@sha256:65645c7bb6a0661892a8b03b89d0743208a18dd2f3f17a54ef4b76fb8e2f2a10 0.1s done
+[2026-04-27T03:51:16.770Z] #8 DONE 0.1s
+[2026-04-27T03:51:16.770Z] 
+[2026-04-27T03:51:16.771Z] #9 [internal] load build context
+[2026-04-27T03:51:17.034Z] #9 transferring context: 968.79kB 0.3s done
+[2026-04-27T03:51:17.034Z] #9 DONE 0.3s
+[2026-04-27T03:51:17.034Z] 
+[2026-04-27T03:51:17.034Z] #8 [stage-1 1/3] FROM docker.io/library/nginx:1.27-alpine@sha256:65645c7bb6a0661892a8b03b89d0743208a18dd2f3f17a54ef4b76fb8e2f2a10
+[2026-04-27T03:51:17.034Z] #8 CACHED
+[2026-04-27T03:51:17.034Z] 
+[2026-04-27T03:51:17.034Z] #10 [builder 2/6] WORKDIR /app
+[2026-04-27T03:51:17.034Z] #10 CACHED
+[2026-04-27T03:51:17.034Z] 
+[2026-04-27T03:51:17.034Z] #11 [builder 3/6] COPY package*.json ./
+[2026-04-27T03:51:17.034Z] #11 DONE 0.1s
+[2026-04-27T03:51:17.034Z] 
+[2026-04-27T03:51:17.034Z] #12 [stage-1 2/3] COPY nginx/default.conf /etc/nginx/conf.d/default.conf
+[2026-04-27T03:51:17.298Z] #12 DONE 0.1s
+[2026-04-27T03:51:17.298Z] 
+[2026-04-27T03:51:17.298Z] #13 [builder 4/6] RUN npm ci
+[2026-04-27T03:51:23.842Z] #13 6.307 npm warn deprecated whatwg-encoding@2.0.0: Use @exodus/bytes instead for a more spec-conformant and faster implementation
+[2026-04-27T03:51:25.747Z] #13 8.278 npm warn deprecated domexception@4.0.0: Use your platform's native DOMException instead
+[2026-04-27T03:51:26.010Z] #13 8.535 npm warn deprecated abab@2.0.6: Use your platform's native atob() and btoa() methods instead
+[2026-04-27T03:51:40.882Z] #13 22.20 
+[2026-04-27T03:51:40.882Z] #13 22.20 added 496 packages, and audited 497 packages in 21s
+[2026-04-27T03:51:40.882Z] #13 22.20 
+[2026-04-27T03:51:40.882Z] #13 22.20 98 packages are looking for funding
+[2026-04-27T03:51:40.882Z] #13 22.20   run `npm fund` for details
+[2026-04-27T03:51:40.882Z] #13 22.29 
+[2026-04-27T03:51:40.882Z] #13 22.29 19 vulnerabilities (3 low, 7 moderate, 9 high)
+[2026-04-27T03:51:40.882Z] #13 22.29 
+[2026-04-27T03:51:40.882Z] #13 22.29 To address issues that do not require attention, run:
+[2026-04-27T03:51:40.882Z] #13 22.29   npm audit fix
+[2026-04-27T03:51:40.882Z] #13 22.29 
+[2026-04-27T03:51:40.882Z] #13 22.29 To address all issues (including breaking changes), run:
+[2026-04-27T03:51:40.883Z] #13 22.29   npm audit fix --force
+[2026-04-27T03:51:40.883Z] #13 22.29 
+[2026-04-27T03:51:40.883Z] #13 22.29 Run `npm audit` for details.
+[2026-04-27T03:51:40.883Z] #13 22.30 npm notice
+[2026-04-27T03:51:40.883Z] #13 22.30 npm notice New major version of npm available! 10.8.2 -> 11.13.0
+[2026-04-27T03:51:40.883Z] #13 22.30 npm notice Changelog: https://github.com/npm/cli/releases/tag/v11.13.0
+[2026-04-27T03:51:40.883Z] #13 22.30 npm notice To update run: npm install -g npm@11.13.0
+[2026-04-27T03:51:40.883Z] #13 22.30 npm notice
+[2026-04-27T03:51:41.457Z] #13 DONE 22.9s
+[2026-04-27T03:51:41.457Z] 
+[2026-04-27T03:51:41.457Z] #14 [builder 5/6] COPY . .
+[2026-04-27T03:51:41.721Z] #14 DONE 0.4s
+[2026-04-27T03:51:41.987Z] 
+[2026-04-27T03:51:41.987Z] #15 [builder 6/6] RUN npm run build
+[2026-04-27T03:51:42.560Z] #15 0.594 
+[2026-04-27T03:51:42.560Z] #15 0.594 > vite_react_shadcn_ts@0.0.0 build
+[2026-04-27T03:51:42.560Z] #15 0.594 > vite build
+[2026-04-27T03:51:42.560Z] #15 0.594 
+[2026-04-27T03:51:43.136Z] #15 1.074 vite v5.4.19 building for production...
+[2026-04-27T03:51:43.136Z] #15 1.159 transforming...
+[2026-04-27T03:51:43.710Z] #15 1.874 Browserslist: browsers data (caniuse-lite) is 10 months old. Please run:
+[2026-04-27T03:51:43.710Z] #15 1.874   npx update-browserslist-db@latest
+[2026-04-27T03:51:43.710Z] #15 1.874   Why you should do it regularly: https://github.com/browserslist/update-db#readme
+[2026-04-27T03:51:48.983Z] #15 8.150 ✓ 1666 modules transformed.
+[2026-04-27T03:51:48.983Z] #15 8.456 rendering chunks...
+[2026-04-27T03:51:48.983Z] #15 8.479 computing gzip size...
+[2026-04-27T03:51:48.983Z] #15 8.510 dist/index.html                   1.15 kB │ gzip:  0.49 kB
+[2026-04-27T03:51:48.983Z] #15 8.510 dist/assets/index-Cd6tRYBl.css   57.42 kB │ gzip: 10.17 kB
+[2026-04-27T03:51:48.983Z] #15 8.510 dist/assets/index-BD16ZMhy.js   309.77 kB │ gzip: 99.72 kB
+[2026-04-27T03:51:48.983Z] #15 8.510 ✓ built in 7.40s
+[2026-04-27T03:51:48.983Z] #15 DONE 8.6s
+[2026-04-27T03:51:49.920Z] 
+[2026-04-27T03:51:49.920Z] #16 [stage-1 3/3] COPY --from=builder /app/dist /usr/share/nginx/html
+[2026-04-27T03:51:50.187Z] #16 DONE 0.1s
+[2026-04-27T03:51:50.187Z] 
+[2026-04-27T03:51:50.187Z] #17 exporting to image
+[2026-04-27T03:51:50.187Z] #17 exporting layers
+[2026-04-27T03:51:50.451Z] #17 exporting layers 0.2s done
+[2026-04-27T03:51:50.452Z] #17 exporting manifest sha256:c20fd971694e356590106db1c377630285066ee9822f362742dfaba5dcd9f4f8 0.0s done
+[2026-04-27T03:51:50.452Z] #17 exporting config sha256:b07e6f00e8210ec186c50cb384aba54b988a81ac6d381ccf4fa07760f63fd6f7 0.0s done
+[2026-04-27T03:51:50.452Z] #17 exporting attestation manifest sha256:320a0d856a6edb68ef194da3740a0b38a0e67d55c75ebbfb46341cd361bb793a 0.0s done
+[2026-04-27T03:51:50.452Z] #17 exporting manifest list sha256:3553e6eef649ac89a95acc93a7a782605c362b77016fb1529e7263e8206a3037
+[2026-04-27T03:51:50.712Z] #17 exporting manifest list sha256:3553e6eef649ac89a95acc93a7a782605c362b77016fb1529e7263e8206a3037 0.0s done
+[2026-04-27T03:51:50.712Z] #17 naming to docker.io/maazjazelle/flappy-fun:8-80ed137 done
+[2026-04-27T03:51:50.712Z] #17 unpacking to docker.io/maazjazelle/flappy-fun:8-80ed137 0.1s done
+[2026-04-27T03:51:50.713Z] #17 naming to docker.io/maazjazelle/flappy-fun:latest done
+[2026-04-27T03:51:50.713Z] #17 unpacking to docker.io/maazjazelle/flappy-fun:latest 0.0s done
+[2026-04-27T03:51:50.713Z] #17 DONE 0.6s
+[8mha:////4KKWPtqSbcrVnWR86gRgq/z9wlaCgq+FvmVyH8n8nSntAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOJCRyREldZKwwtMbIwT687YDknFi/gaf8AiEhVbrHa2mdcb1jHAiYPBXtNgKXYWvRtNXjhxGK6OJ+z5gh1TZKex1VPLSjcLtpw0LClKWAnYaOocR0smwVb08iErJ8lU5xTydxRQWnWHJxQim5MM6QtzgN1tVJHp5/krgNn7BGW9z3WoP97N89u+AAAA[0m[Pipeline] }
+[8mha:////4MWbQ0ECTpJbtjjZL2dbm3lrAx2IJ29IubJWSFuPwQdBAAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPMIRVZAQVVorDS8w8WGcWHfGdkgqXsTX+AMWkajYYrWzzbzesI4BThyM6JEGS7GzwrvR5CUmDsPV8SR6voiOKbJD0eLUssZmwZYTwpKihJWEDVLnOFoyCbayVw9VOUWmOqeQv6OE0uo7PKGQ2ZxUSF+YA+xuo45MP89fAczeJygP+1x1/QHqAxCAvgAAAA==[0m[Pipeline] // dir
+[8mha:////4Mh2y/+L8fjxbnE8KNxfBdjJLHc+7p+ciuw3N/mrvyBRAAAAph+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOIiUQASSkVrueEFJjHGiXUXbAen4kV8jT9gEYmKLVY728zrDcvgoWZvsNPUWwqNxcGNJi9M7Pur44QdX7BhCuw0Sp0kt/o0o+SoYU5RwkLASlPjOFgyEdaiUw9VOUWmOkefv6OA0rZ3eEIhsjkqH78wedjcxjYw/Tx/BTANQ4TysM21330A0kGDcb4AAAA=[0m[Pipeline] }
+[8mha:////4DIkdzfiCL/an11obrTik8Twp7E8y889UT3qEDYFkHSqAAAAph+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOJSIAQSSkVrueEFJjHGiXUXbAen4kV8jT9gEYmKLVY728zrDcvgoWZvsNPUWwqNxcGNJi9M7Pur44QdX7BhCuw0Sp0kt/o0o+SoYU5RwkLASlPjOFgyEdaiUw9VOUWmOkefv6OA0rZ3eEIhsjkqH78wedjcxjYw/Tx/BTANQ4TysM21330AzcPWI74AAAA=[0m[Pipeline] // stage
+[8mha:////4OMOLdvDXr2cIz3LlgFiJY5nSxwgiCK5lTXIZv6cvQYSAAAAqB+LCAAAAAAAAP9tjUEKwjAURH8rXbh16SFSBAVBunIbuvEEsYkxafi/JqnpyhN5Ne9gtODKWQwzA8N7vqAKHhrymlmFvcHQGTa4UefEEvn+4igxS2fWEQZyirUqtSTVca4tRQWzihIWHJYKO0fBoI6w4lbcRe0E6voUfd4OHEojb/CAgmdyFD5+y+RhfR1lIPxx/gJgGiKUm122/fbzrN4j2bJowgAAAA==[0m[Pipeline] stage
+[8mha:////4IPvtpd6+8qUux6ls7topcREE1AvZpzkMs+qNPd/wxnDAAAAqB+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycoh0AQkJMXWNsnCC0ISQNvq//KS0EyfiatyBlkpMeLBsS9Z7vaGIDCdiJxqLrcdYe9GF3k1JDMTtNdAgGrqImjBSsELZQZGx1VIVJQuLshxWEtYW60DRo0uwkY1+6DJodOU58bQdJeTe3OEJmZzISXP6lpFhe+tNJPxx/gJg7BLkh91s+/lZfADX78n/wgAAAA==[0m[Pipeline] { (Scan Image)
+[8mha:////4PkW7fcivQ1xxPiAAeNm+SD/1tIWcReRe+3RSsNeWciLAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOJSgZAQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGPIUO63n9qFNxbD1rW+AAAA[0m[Pipeline] bat
+[2026-04-27T03:51:52.638Z] 
+[2026-04-27T03:51:52.639Z] C:\Users\MAAZ\Downloads\flappy-fun-main\jenkins-home\workspace\flappy-fun>trivy image --exit-code 1 --severity HIGH,CRITICAL docker.io/maazjazelle/flappy-fun:8-80ed137 
+[2026-04-27T03:51:52.639Z] 'trivy' is not recognized as an internal or external command,
+[2026-04-27T03:51:52.639Z] operable program or batch file.
+[8mha:////4LWYhegqN0xgiMxMBMecEVLgiNRPrhsHaXgFsEtxDEj8AAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOJSIZAQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGMIGcr97lPbNxSd3z++AAAA[0m[Pipeline] }
+[8mha:////4FmzfsqZsLQgmZg/zlLztMigVbPf0J2TUcsa88ULP2guAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOLSUERCVLRWGl5gEmPsWHeO7eBUvIiv8QcCkajYYrWzzTxfsI4Bjhw0WkW9odga9G7U88LMob86zmj5gi1TZKewUbnhTp0WbDgpWFKUsBKwUdQ6joZ0gq2w8i4rJ0lX5xTm7yCgNN0ADyjEbE4ypC9MAXa3sYtMP89fAUzeJyjr+lP7N1cfjrm+AAAA[0m[Pipeline] // stage
+[8mha:////4HPhoXTrUPG/ZcN03XMRZ1mzV/7kVvtLfbWLbS352o7nAAAAqB+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUDEgg1Ik16sIJQhNC0uj/kqSkEyfiatyBQCUmPFi2Jes9X1AFDw15zazC3mDoDBvcqHNiiXx/cZSYpTPrCAM5xVqVWpLqONeWooJZRQkLDkuFnaNgUEdYcSvuonYCdX2KPm8HDqWRN3hAwTM5Ch+/ZfKwvo4yEP44fwEwDRHKzTbbbv95Vm/9yizUwgAAAA==[0m[Pipeline] stage
+[8mha:////4EnmyTl4+2OCPw7IatBeuzAfwI1fUODwZMwL3uYUZXBWAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycoiUkQoxdY2ycIKQhJA2+r8kKe3EibgadyBQiQkPlm3Jes8XVDHAkYJlncHeYVSODX60ObGJQn/xNLGOzkwRRvKGCTMJ0qZdqqBkYFFRworD2qDyFB3aBBveybusvURbn1LI24FD6fQNHlDwTE4ypG+ZA2yvo46EP85fAMxDgnLfZGt2n2f1Btc458LCAAAA[0m[Pipeline] { (Push Image)
+Stage "Push Image" skipped due to earlier failure(s)
+[8mha:////4HV3F5MAiB2Y90/v6imdFT+47PdoxkmaOhQ9/xuciiwmAAAAox+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOICJUJUaS03vMDExjix7oztkFS8iK/xBwKRqNhitbPNPF+wTBGOHC22hjpHqXEYfG+nhQPH7uJ5wJbP2DAl9galGSRrU88oORuYU5SwELAy1HhOjmyGtWjVXVVeka1OOU7fQUDp9A0eUIjJnFXMXxgjbK69Tkw/z18BjCFDud9+ahfe3xDHZb4AAAA=[0m[Pipeline] getContext
+[8mha:////4IZEdM5eIkeBvyYICt/0dlxSBFLv5gHkMjn1dm80q/XPAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOKC6BCiSmu54QUmNsaJdWdsh6TiRXyNPxCIRMUWq51t5vmCZYpw5GixNdQ5So3D4Hs7LRw4dhfPA7Z8xoYpsTcozSBZm3pGydnAnKKEhYCVocZzcmQzrEWr7qryimx1ynH6DgJKp2/wgEJM5qxi/sIYYXPtdWL6ef4KYAwhQ7nffWr7Bt3CFKC+AAAA[0m[Pipeline] }
+[8mha:////4ONet7s5dnUzxtQQbWqmsEgIQmUix+Ru8lLgJdL3EVI6AAAApR+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOJS0BAhqrRWGl5gYmOcWHfGdkgqXsTX+AMWkajYYrWzzbzesI4BThwM9poGS7Gz6N1o8sKJw3B1PGHPF+yYIjuNrZ5aVrpZsOWkYUlRwkrARlPnOFoyCbailw9ZOUmmOqeQv6OA0qo7PKEQ2ZxkSF+YA+xuo4pMP89fAczeJyjrfa5D/QGdmI8LvgAAAA==[0m[Pipeline] // stage
+[8mha:////4KEiPhuGJ1H5T2goNMSFiTauqlPHtUTFDOD9UeZFWlrTAAAAqB+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUSDAg1Ik16sIJQhNC0uj/kqSkEyfiatyBQCUmPFi2Jes9X1AFDw15zazC3mDoDBvcqHNiiXx/cZSYpTPrCAM5xVqVWpLqONeWooJZRQkLDkuFnaNgUEdYcSvuonYCdX2KPm8HDqWRN3hAwTM5Ch+/ZfKwvo4yEP44fwEwDRHKzS7bfvt5Vm+X0sXOwgAAAA==[0m[Pipeline] stage
+[8mha:////4HnLIrq1SJA/WlcQKG0MvkYPa3ZAGT91aDqHBfnRNgrmAAAApx+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycoh0gQEhpq5RFk4QmhDSRv+Xn5R24kRcjTvQUokJD5ZtyXqvNxSR4UTsRGOx9RhrL7rQuymJgbi9BhpEQxdRE0YKVig7KDK2WqqiZGFRlsNKwtpiHSh6dAk2stEPXQaNrjwnnrajhNybOzwhkxM5aU7fMjJsb72JhD/OXwCMXYL8sJttPz+LDwyoG8LCAAAA[0m[Pipeline] { (Update GitOps Repo)
+Stage "Update GitOps Repo" skipped due to earlier failure(s)
+[8mha:////4IcTw1v67xJ/q7l+eOi/KiujnNeXEXxAB5ByJSDEDFhKAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOJSgYQQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGPIUO63n9qFN7+pvni+AAAA[0m[Pipeline] getContext
+[8mha:////4IP9UdR2lLtM3xg3BLublJ3nOcgfjsSe+oKRw4SPfp30AAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOJSIYQQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGMIGcr97lPbN+Gns4C+AAAA[0m[Pipeline] }
+[8mha:////4Dj4mt4EBWKJ2gU3V0xiNJMoBwUl8sVdhsrS8HKpOwfbAAAApB+LCAAAAAAAAP9tjTEOwjAQBC9BFLSUPOLSUIAQVVrLDS8wsTFOrDtjOyQVL+Jr/IFAJCq2WO1sM88XLFOEI0eLraHOUWocBt/baeHAsbt4HrDlMzZMib1BaQbJ2tQzSs4G5hQlLASsDDWekyObYS1adVeVV2SrU47TdxBQOn2DBxRiMmcV8xfGCJtrrxPTz/NXAGMIGcr97lPbN6Il4ga+AAAA[0m[Pipeline] // stage
+[8mha:////4Jgr0CFJD6Fr5NNg4b0O23l+lLtYsVALKId74h9jiOEQAAAAqB+LCAAAAAAAAP9tjTEOwjAUQ3+LOrAycohUDAwVYuoaZeEEIQkhbfR/SVLaiRNxNe5AoBITHizbkvWeL6higCMFyzqDvcOoHBv8aHNiE4X+4mliHZ2ZIozkDRNmEqRNu1RBycCiooQVh7VB5Sk6tAk2vJN3WXuJtj6lkLcDh9LpGzyg4JmcZEjfMgfYXkcdCX+cvwCYhwTlbp+taT7P6g1JwVtywgAAAA==[0m[Pipeline] stage
+[8mha:////4PsNDUUkUOqhuW3VOPEurlg1SV4clfDH8eX81nLATysaAAAApx+LCAAAAAAAAP9tjbEOgjAURR8QBldHP6LgSIwTa8PiF9RSa6F5D9uHMPlF/pr/IEri5J3uucnNeb4gjwGOFKzoDPYOo3Zi8KNdmpgo9BdPk+joLDRhJG9EY6aGWlOv2BAbWJOkkEnYGNSeokPLsJWduqvCK7TFicOyHSSkrr3BAxK5mFkF/sIcYHcd20j48/wVwDwwpFXFkO3L8nPN3zgbWwvDAAAA[0m[Pipeline] { (Declarative: Post Actions)
+[8mha:////4I04bF7NnGBtaH64ThG1HUPC03ilLoiZVubcwBj0WLDyAAAAox+LCAAAAAAAAP9tjTESgjAQRRcYC1tLDxGgdqxsMzSeIIYYA5ndkCxC5Ym8mneQgRkrf/Hnv9+89wd2KcKZohWdwd5h0k4EP9pliYlif/c0iY5uQhMm8kY0ZmqoNZcNG2IDW7IcCgl7g9pTcmgZDrJTT1V6hba8cly+k4TctQO8IJOLmVXkFeYIx8fYJsKf568A5sBQ1FW1dh2+9eP8fcAAAAA=[0m[Pipeline] powershell
+[8mha:////4JsomLAZX4P0tjapfJFolbh7yFLOnkrwhGmDCBPPfaTeAAAApB+LCAAAAAAAAP9tjTESgjAURD8wFraWHiKgrWNFm6HxBJHEmJD5PyZBqDyRV/MOZmDGyi129m3z3h/YxABnCppZhYPB2Bvm3ajzYhOF4eZoYpaurCeM5BTr1NSRVO2KHSUFa4oSKg5bhb2jaFAn2HErnqJ2AnV9SSF/Jw6lkQ94QcGzOYmQFpgD7O+jjIQ/z18BzD5BdWiapY/+Czaw0VbAAAAA[0m[Pipeline] cleanWs
+[2026-04-27T03:51:54.516Z] [WS-CLEANUP] Deleting project workspace...
+[2026-04-27T03:51:54.516Z] [WS-CLEANUP] Deferred wipeout is used...
+[2026-04-27T03:51:54.564Z] [WS-CLEANUP] done
+[8mha:////4PlWT/u9D+pjaJc2dMhN/8UpQSra9QfTlruTpwImR/tbAAAApB+LCAAAAAAAAP9tjTEOwjAQBC+JKGgpeYQTRImo0lppeIGJjbFj3RnbIal4EV/jD1iJRMUWq51t5v2BTQxwpqCZVTgYjL1h3o06LzZRGG6OJmbpynrCSE6xTk0dSdWu2FFSsKYooeKwVdg7igZ1gh234ilqJ1DXlxTyd+JQGvmAFxQ8m5MIaYE5wP4+ykj48/wVwOx9gurQHJduvpNHDhrAAAAA[0m[Pipeline] }
+[8mha:////4OQzuvx3bXBzRk4igu76X9irCjCjOOTbBTP4TfyeBPVfAAAAph+LCAAAAAAAAP9tjbEOgjAURR8lDq6OfkTRxIUYJteGxS+opdZC8x62D2Hyi/w1/0EiiZN3uucs5/WGVYpQUXSytdh5TMbLPgxufnKk2F0DjbKlizSEiYKVtR1rauxpwZrYwrJMQK5gbdEESh4dw0a1+qGLoNEVZ46zOyoQvrnDEzI1l1lH/sIUYXsbmkT46/wNwNT3DPl+d2AQZfkBIfY7dr8AAAA=[0m[Pipeline] // stage
+[8mha:////4Mrw2dwlNxT7hAdUUaHPHugXU6bhoACvvv68zAHbFNGoAAAApR+LCAAAAAAAAP9tjTESgjAQRRcYC1tLDxGkoHKsaDM0niCGGAOZXUwWofJEXs07mJEZK3/132ve6w2bGOBEwYre4OAwaidGP9n0xExhuHqaRU8XoQkjeSNaM7fUmWbFltjAuiyHQsLWoPYUHVqGnezVQ5VeoS3PHJI7Sshdd4cnZDKVWQX+whJgf5u6SPjr/A3AMo4MRXWoGfKq/gCn4wh8vwAAAA==[0m[Pipeline] }
+[8mha:////4KX1Z7UqkgNd/Ou6noVAABNh2njQmsJtMZZIeQiRyIpvAAAAph+LCAAAAAAAAP9tjbEOgjAURR8QB1dHP6JIYlwMk2vD4hdUWmuheQ/bhzD5Rf6a/2AjiZN3uucs5/WGVQxQU7CiM9g7jK0Tgx9temKi0F89TaKji2gJI3kjGjM1pM1pwYbYwLIsh0LC2mDrKTq0DBvZqYcqvUJbnjkkd5SQO32HJ2QylVkF/sIcYHsbdST8df4GYB4GhqLaHRjyav8Bn6Gbjb8AAAA=[0m[Pipeline] // timestamps
+[8mha:////4Fc9/eQRcjxyLGT36ECr7od77i//WdJu4xsl5os6yaU9AAAAph+LCAAAAAAAAP9tjTESgjAQRRcYC1tLDxFkLCwcKtsMjSeIJMZAZheTRag8kVfzDmZkxspf/fea93rDKgaoKVjRGewdxtaJwY82PTFR6K+eJtHRRbSEkbwRjZka0ua0YENsYFmWQyFhbbD1FB1aho3s1EOVXqEtzxySO0rInb7DEzKZyqwCf2EOsL2NOhL+On8DMA8DQ1HtDgx5tf8Ameej2L8AAAA=[0m[Pipeline] }
+[8mha:////4C3nfWnc/L7PGbvTeJmu706umarreWH4e6WQ5zUPgKEMAAAApR+LCAAAAAAAAP9tjTESgjAQRRcYC1tLDxHEyhmHyjZD4wkiiTGQ2cVkESpP5NW8gxmZsfJX/73mvd6wigFqClZ0BnuHsXVi8KNNT0wU+qunSXR0ES1hJG9EY6aGtDkt2BAbWJblUEhYG2w9RYeWYSM79VClV2jLM4fkjhJyp+/whEymMqvAX5gDbG+jjoS/zt8AzMPAUFS7A0Ne7T/aZfJevwAAAA==[0m[Pipeline] // withEnv
+[8mha:////4O9umWQRnMZK1M/nNk26JRDTyGauSkkVbJ1jM5Nof4zcAAAApB+LCAAAAAAAAP9tjTEOwjAQBC+JKGgpeYRDSoSoaK00vMDExjix7ox9wal4EV/jD0REomKrnWnm9YZVinCkaEVvcHCYOieCH+38RKY4XD1l0dNFdISJvBGtyS1pc1qwJTawrCihkrA22HlKDi3DRvbqoWqv0NZnjrM7SCidvsMTCjmXWUX+whRhext1Ivx1/gZgCoGhanZ7hrJpPsXnpwy/AAAA[0m[Pipeline] }
+[8mha:////4Ca8iJYDq6Qrd4SQvitiqEzr/DhlspCFwOiewmLC3qRqAAAAox+LCAAAAAAAAP9tjTESgjAQRRcYC1tLDxGgdqxsM2k8QYQYA5ndmCxC5Ym8mncwIzNW/uq/17zXGzYpwpGiFYPB0WHqnAh+svmJmeJ49TSLgS6iI0zkjVBmVtSb04qK2MC6ooRKwtZg5yk5tAw7OeiHrr1GW585ZneQULr+Dk8oZC6zjvyFJcL+NvWJ8Nf5G4AlBIaqbRuGsm0+L43Y+r8AAAA=[0m[Pipeline] // withEnv
+[8mha:////4DBBGXBIKCLnLIyibJ6RruFx1+E8Lf/3KnrGYWrrbvY7AAAApB+LCAAAAAAAAP9tjbEOgjAURS8SB1dHP6KExM04uTYsfkGFWgvNe9g+hMkv8tf8B4kkTt7pnrOc1xvrFHHk6FRrqfOUaq/6MLj5qZFjdw08qpYvqmZKHKyq7FhxY08LViwWy7IVco2NpTpw8uQEW92ahymCIVecJc7uoLHyzR1PZHoui4nyhSlidxuaxPTr/A1g6ntBXpalINt/APSy/b6+AAAA[0m[Pipeline] }
+[8mha:////4AxRuu8d4Aimw3hgK4dolhrkUTdF52Up0tdlFTOQOrOPAAAApB+LCAAAAAAAAP9tjTEOwjAQBM+JKGgpeYSjQImoaK00vMDExjix7oJ9wal4EV/jD0REomKrnWnm9YZVinCk6GRnsfeYWi+HMLr5yUyxvwbKsqOLbAkTBSsbmxsy9rRgQ2xhmSigVLC22AZKHh3DRnX6oaug0VVnjrM7KCi8ucMThJrLrCN/YYqwvY0mEf46fwMwDQNDWdc7BrH/AIddOWe+AAAA[0m[Pipeline] // node
+[8mha:////4PclHq6vWscRa6ImdgCfa85h2UCEggPignj7XtNPaHV4AAAApB+LCAAAAAAAAP9tjTEOwjAQBM+JKGgpeYSjQImoaK00vMDExjix7oJ9wal4EV/jD0REomKrnWnm9YZVinCk6GRnsfeYWi+HMLr5yUyxvwbKsqOLbAkTBSsbmxsy9rRgQ2xhmSigVLC22AZKHh3DRnX6oaug0VVnjrM7KCi8ucMThJrLrCN/YYqwvY0mEf46fwMwDQNDWdd7BrH7AKFEXi2+AAAA[0m[Pipeline] End of Pipeline
+ERROR: script returned exit code 1
+Finished: FAILURE
