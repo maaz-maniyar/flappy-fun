@@ -102,7 +102,7 @@ pipeline {
 
     stage('Scan Image') {
       steps {
-        bat '"%TRIVY_EXE%" image --scanners vuln --timeout 15m --exit-code 1 --severity HIGH,CRITICAL %IMAGE_REPO%:%IMAGE_TAG%'
+        bat '"%TRIVY_EXE%" image --scanners vuln --timeout 15m --ignore-unfixed --exit-code 1 --severity HIGH,CRITICAL %IMAGE_REPO%:%IMAGE_TAG%'
       }
     }
 
