@@ -95,7 +95,9 @@ pipeline {
     stage('Build Image') {
       steps {
         dir("${APP_DIR}") {
-          bat 'docker build -t %IMAGE_REPO%:%IMAGE_TAG% -t %IMAGE_REPO%:latest .'
+          bat 'docker pull node:20-alpine'
+          bat 'docker pull nginx:1.29.8-trixie'
+          bat 'docker build --pull=false -t %IMAGE_REPO%:%IMAGE_TAG% -t %IMAGE_REPO%:latest .'
         }
       }
     }
