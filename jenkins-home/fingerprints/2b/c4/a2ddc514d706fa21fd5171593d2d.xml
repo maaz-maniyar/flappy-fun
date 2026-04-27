@@ -1,0 +1,13 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2026-04-27 05:29:52.540 UTC</timestamp>
+  <md5sum>2bc4a2ddc514d706fa21fd5171593d2d</md5sum>
+  <fileName>Credential id=dockerhub-creds name=maazjazelle/******</fileName>
+  <usages>
+    <entry>
+      <string>flappy-fun</string>
+      <ranges>14</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

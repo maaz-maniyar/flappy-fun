@@ -1,0 +1,16 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: flappy-fun
+  namespace: flappy-fun-dev
+  labels:
+    app.kubernetes.io/name: flappy-fun
+    app.kubernetes.io/environment: dev
+spec:
+  selector:
+    app.kubernetes.io/name: flappy-fun
+  ports:
+    - name: http
+      port: 80
+      targetPort: http
+  type: ClusterIP
