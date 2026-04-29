@@ -3,6 +3,8 @@ kind: Ingress
 metadata:
   name: flappy-fun
   namespace: flappy-fun-dev
+  annotations:
+    kubernetes.io/ingress.class: nginx   # 🔥 ADD THIS
 spec:
   ingressClassName: nginx
   rules:
