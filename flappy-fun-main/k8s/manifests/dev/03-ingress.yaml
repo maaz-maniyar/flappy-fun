@@ -4,14 +4,11 @@ metadata:
   name: flappy-fun
   namespace: flappy-fun-dev
   annotations:
-    alb.ingress.kubernetes.io/scheme: internet-facing
-    alb.ingress.kubernetes.io/target-type: ip
-    alb.ingress.kubernetes.io/healthcheck-path: /healthz
+    nginx.ingress.kubernetes.io/rewrite-target: /
 spec:
-  ingressClassName: alb
+  ingressClassName: nginx
   rules:
-    - host: dev.flappy-fun.local
-      http:
+    - http:
         paths:
           - path: /
             pathType: Prefix
