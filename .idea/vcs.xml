@@ -3,6 +3,5 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/jenkins-home/caches/git-5275172bd8d76fbf6a72360d6e4560cf" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/jenkins-home/workspace/flappy-fun" vcs="Git" />
   </component>
 </project>

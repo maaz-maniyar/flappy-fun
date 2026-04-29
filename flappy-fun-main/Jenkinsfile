@@ -112,11 +112,11 @@ pipeline {
       steps {
         withCredentials([usernamePassword(credentialsId: "${DOCKERHUB_CREDENTIALS_ID}", usernameVariable: 'DOCKERHUB_USERNAME', passwordVariable: 'DOCKERHUB_PASSWORD')]) {
           powershell '''
-            $env:DOCKERHUB_PASSWORD | docker login -u $env:DOCKERHUB_USERNAME --password-stdin
-            docker push "$env:IMAGE_REPO`:$env:IMAGE_TAG"
-            docker push "$env:IMAGE_REPO`:latest"
-            docker logout
-          '''
+        docker login -u $env:DOCKERHUB_USERNAME -p $env:DOCKERHUB_PASSWORD
+        docker push "$env:IMAGE_REPO`:$env:IMAGE_TAG"
+        docker push "$env:IMAGE_REPO`:latest"
+        docker logout
+      '''
         }
       }
     }
